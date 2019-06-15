@@ -1,0 +1,1113 @@
+"ID","PERGUNTAS","RESPOSTAS","CLASSES","AUTORES","COMENTARIOS"
+"1","Como opera o algoritmo Random Forest?","O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein","Incluir referência em cada resposta. Pergunta e resposta em português. Definir classes"
+"2","Qual é o mecanismo de funcionamento do Random Forest?","O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"3","Quais são os passos executados pelo algoritmo de Floresta Randômica?","O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"4","Como o Random Forest atua?","O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"5","O que o Floresta Randômica faz?","O Floresta Randômica combina centenas de milhares de árvores de decisão e treina cada uma delas em um conjunto ligeiramente diferente de observações, dividindo os nodos em cada árvore de acordo com um número limitado de características. A predição final do Random Forest consiste na média das predições de cada uma das árvores individualmente consideradas.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"6","Que problema do algoritmo Árvore de Decisão o Random Forest é capaz de superar?","Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. ","comparacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"7","Há alguma vantagem do algoritmo de Random Forest em comparação com o Decision Tree?","Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. ","comparacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"8","Há alguma diferença relevante nos resultados obtidos pelos algoritmos Floresta Randômica e Árvores de Decisão?","Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. ","comparacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"9","No tocante aos resultados obtidos, em que se diferenciam os algoritmos Floresta Randômica e Árvores de Decisão?","Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. ","comparacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"10","No que tange aos resultados obtidos, em que se diferenciam os algoritmos Random Forest e Decision Tree?","Florestas de decisão randômica não têm a tendência de se ajustar demasiadamente ao conjunto de treino (overfitting), diversamente do que ocorre com as árvores de decisão. assim,enquanto que árvores de decisão crescidas até grandes profundidades tendem a aprender padrões altamente irregulares, apresentando baixo bias mas variâncias muito altas, as florestas randômicas, em contrapartida, obtêm êxito em reduzir a variância, aumentando a performance final do modelo, ao custo de um pequeno aumento no bias e de alguma perda de interpretabilidade. ","comparacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"11","Quais são as principais aplicações do Random Forest?","Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"12","Que setores utilizam o Random Forest comumente?","Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"13","Random forest é principalmente aplicado em quê?","Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"14","Onde o Random Forest é normalmente aplicado?","Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"15","Quais as principais áreas de aplicação de Random Forest?","Sistemas bancários, medicina, sistema finânceiro, comércio eletrônico.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"16","O que é o algoritmo Random Forest?","Random Forest é um algoritmo supervisionado de classificação.","conceito","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"17","Qual é o conceito do algoritmo Random Forest?","Random Forest é um algoritmo supervisionado de classificação.","conceito","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"18","No que consiste o algoritmo Random Forest?","Random Forest é um algoritmo supervisionado de classificação.","conceito","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"19","Alguém me explica o que é o Random Forest?","Random Forest é um algoritmo supervisionado de classificação.","conceito","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"20","Algoritmo Random Forest, do que se trata?","Random Forest é um algoritmo supervisionado de classificação.","conceito","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"21","Para que servem os hiperparâmetros no algoritmo de Random Forest?","Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.","hiperparametro","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"22","Qual a importância dos hiperparâmetros no algoritmo de Floresta Aleatória?","Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.","hiperparametro","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"23","Como a configuração dos hiperparâmetros afeta o desempenho do algoritmo Random Forest?","Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.","hiperparametro","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"24","Quais são os hiperparâmetros do Random Forest, e para que eles servem?","Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.","hiperparametro","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"25","Qual a serventia dos hiperparâmetros no algoritmo Random Forest?","Os hiperparâmetros no Floresta Aleatória podem ser modificados tanto para aumentar o poder preditivo do modelo como para torná-lo mais rápido.","hiperparametro","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"26","Quais as desvantagens do Random Forest?","A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.","desvantagem","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"27","Quais os pontos fracos do Floresta Randômica?","A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.","desvantagem","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"28","Qual a limitação do Floresta Randômica?","A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.","desvantagem","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"29","O que poderia justificar o não uso do Random Forest?","A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.","desvantagem","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"30","O que faz com que o Random Forest nao seja sempre viável?","A maior limitação do Floresta Aleatória é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. Em geral, estes algoritmos são rápidos para treinar, mas muito lentos para fazer predições depois de treinados. Uma predição com mais acurácia requer mais árvores, o que faz o modelo ficar mais lento.","desvantagem","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"31","No tocante aos resultados que uma floresta pode obter e o número de árvores nesta floresta, há uma relação?","Quanto maior o número de árvores, mais acurado é o resultado obtido.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"32","Existe uma relação direta entre o número de árvores na floresta e os resultados que ela pode obter?","Quanto maior o número de árvores, mais acurado é o resultado obtido.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"33","Há uma relação direta entre o número de árvores na floresta e os resultados que ela pode obter?","Quanto maior o número de árvores, mais acurado é o resultado obtido.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"34","De que forma o número de árvores na floresta impacta nos resultados?","Quanto maior o número de árvores, mais acurado é o resultado obtido.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"35","Existe uma relação direta entre os resultados que a floresta pode obter e o número de árvores que contém?","Quanto maior o número de árvores, mais acurado é o resultado obtido.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"36","Qual a diferença entre o algoritmo random forest e árvore de decisão?","No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo ""0"" a uma divisão perfeita, e ""50/50"" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"37","Qual a diferença entre o algoritmo random forest e árvore de decisão?","No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo ""0"" a uma divisão perfeita, e ""50/50"" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"38","Como os algoritmos random forest e árvore de decisão são diferentes?","No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo ""0"" a uma divisão perfeita, e ""50/50"" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"39","Os algoritmos random forest e decision tree selecionam o nodo raiz da mesma forma?","No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo ""0"" a uma divisão perfeita, e ""50/50"" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"40","Quais mecanismos são utilizados pelo random forest e pelo decision tree para selecionar o nodo raiz?","No algoritmo de árvore de decisão o cálculo dos nodos e a formação das regras acontecem a partir da informação ganha e dos cálculo do índice de Gini. Um escore de Gini fornece uma ideia de quão boa uma divisão é com base em quanto estão misturadas as classes formadas pela divisão, correspondendo ""0"" a uma divisão perfeita, e ""50/50"" ao pior caso possível.  No algorítmo de floresta randômica, ao invés de utilizar a informação adquirida ou o índice de Gini, o processo de encontrar o nodo raiz e de fazer a divisão em nodos de características vai ocorrer randomicamente.","funcionamento","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"41","O que é o hiperparâmetro n_estimators?","O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta."," nEstimators","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"42","Para que serve o hiperparâmetro n_estimators?","O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta."," nEstimators","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"43","Como o hiperparâmetro n_estimators afeta o funcionamento do algoritmo?","O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta."," nEstimators","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"44","Qual é a importância do hiperparâmetro n_estimators?","O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta."," nEstimators","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"45","Explique o hiperparâmetro n_estimators.","O hiperparâmetro n_estimators representa o número máximo de árvores que o algoritmo constrói antes de realizar a votação do máximo ou de extrair as predições de médias. Em geral, um número maior de árvores proporciona melhor performance e predições mais estáveis, mas também torna a computação mais lenta."," nEstimators","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"46","O que é o hiperparâmetro max_features?","O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.","maxFeatures","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"47","Para que serve o hiperparâmetro max_features?","O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.","maxFeatures","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"48","Como o hiperparâmetro max_features afeta o funcionamento do algoritmo?","O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.","maxFeatures","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"49","Qual é a importância do hiperparâmetro max_features?","O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.","maxFeatures","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"50","Explique o hiperparâmetro max_features.","O hiperparâmetro max_features, que nada mais é do que o número máximo de características que o random forest considera para partir um node. O último hiperparâmetro importante em termos de velocidade é o min_sample_leaf . Ele determina, como o nome indica, qual é o número mínimo de folhas que é necessário para dividir um nodo interno.","maxFeatures","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"51","O que é o hiperparâmetro n_jobs?","O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.","nJobs","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"52","Para que serve o hiperparâmetro n_jobs?","O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.","nJobs","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"53","Como o hiperparâmetro n_jobs afeta o funcionamento do algoritmo?","O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.","nJobs","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"54","Qual é a importância do hiperparâmetro n_jobs?","O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.","nJobs","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"55","Explique o hiperparâmetro n_jobs.","O hiperparâmetro n_jobs diz ao computador quantos processadores ele pode usar. Se o valor é setado para 1”, apenas um processador é permitido; em contrapartida, um valor de -1” significa que não há limite para o número de processador em uso.","nJobs","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"56","O que é o hiperparâmetro min_sample_leaf ?","O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.","minSampleLeaf","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"57","Para que serve o hiperparâmetro min_sample_leaf?","O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.","minSampleLeaf","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"58","Como o hiperparâmetro min_sample_leaf  afeta o funcionamento do algoritmo?","O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.","minSampleLeaf","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"59","Qual é a importância do hiperparâmetro min_sample_leaf ?","O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.","minSampleLeaf","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"60","Explique o hiperparâmetro min_sample_leaf .","O hiperparâmetro min_sample_leaf  determina, como diz o próprio nome, qual é o número mínimo de folhas necessárias para que um nodo interno possa ser dividido.","minSampleLeaf","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"61","O que é o hiperparâmetro random_state?","O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado","randomState","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"62","Para que serve o hiperparâmetro random_state?","O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado","randomState","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"63","Como o hiperparâmetro random_state afeta o funcionamento do algoritmo?","O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado","randomState","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"64","Qual é a importância do hiperparâmetro random_state?","O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado","randomState","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"65","Explique o hiperparâmetro random_state.","O hiperparâmetro random_state permite que resultado do modelo seja replicável. O modelo sempre vai produzir os mesmos resultados se ele contar com um valor definido de random_state e se ele for configurado","randomState","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"66","O que é o hiperparâmetro oob_score?","O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional","oobScore","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"67","Para que serve o hiperparâmetro oob_score?","O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional","oobScore","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"68","Como o hiperparâmetro oob_score afeta o funcionamento do algoritmo?","O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional","oobScore","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"69","Qual é a importância do hiperparâmetro oob_score?","O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional","oobScore","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"70","Explique o hiperparâmetro oob_score.","O hiperparâmetro oob_score (também conhecido como oob sampling), é um método de validação cruzada  do random forest cross. Nesta amostragem, cerca de um terço dos dados não é usado para treinar o modelo e pode ser usado para avaliar a sua performance. Tais amostras são chamadas de amostras fora do saco (out of the bag samples). É muito similar ao método de validação cruzada leave-one-out, mas sem gerar praticamente nenhum custo computacional adicional","oobScore","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"71","Como é utilizado o florest aleatório em bancos?","O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"72","Para que serve o random forest em sistemas bancários?","O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"73","Qual a principal utilização de random forest no setor bancários?","O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"74","Qual o principal uso de random forest em sistemas bancários?","O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"75","Qual o principal uso de random forest em sistemas financeiros?","O algoritmo Random Forest é utilizado para achar clientes de boa fé, que são aqueles que podem receber varios emprestimos e pagar juros para o banco propriamente, e clientes fraudulentos, que são aqueles com historico ruim, como nao pagar as dividas em tempo ou possuir ações perigosas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"76","Para quê o random forest é usado no campo da medicina?","O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"77","Qual a principal random forest na medicina?","O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"78","No contexto da medicina, como random forest pode ser útil?","O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"79","Qual o principal uso de random forest na medicina?","O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"80","Na medicina, random forest é principalmente usado para que?","O algoritmo pode ser usado tanto para identificar a combinação correta de componentes como para identificar doenças mediante a análise do histórico médico do paciente.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"81","Para quê o random forest é usado no campo da mercado de ações?","O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"82","Qual a principal random forest no mercado acionário?","O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"83","No contexto da mercado de ações, como random forest pode ser útil?","O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"84","Qual o principal uso de random forest na mercado de ações?","O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"85","Na mercado de ações, random forest é principalmente usado para que?","O algoritmo pode ser utilizado para mapear o comportamento de uma ação e gerar uma expectativa de lucro ou de prejuízo.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"86","Qual a principal random forest no e-commerce?","The algorithm can be used for predicting whether the customer will like the recommend products, based on the experience of similar customers.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"87","No contexto do e-commerce, como random forest pode ser útil?","","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"88","Qual o principal uso de random forest no e-commerce?","","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"89","No e-commerce, random forest é principalmente usado para que?","","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"90","No setor de e-commerce, para que random forest é usado?","","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"91","Random Forest pode ser usado para classificação?","Sim, e é fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"92","Pode-se usar algoritmo de random forest para classificação?","Sim, e é fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"93","Classificação é uma das coisas que random forest pode ser usado?","Sim, e é fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"94","Is classification possible to be used with random forest?","Sim, e é fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"95","Das aplicações de random forest, classificação é uma delas?","Sim, e é fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"96","Random forest pode ser usado para regressão?","Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"97","Pode o algoritmo de random forest ser usado para regressão?","Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"98","Regressão é uma das coisas que random forest pode ser usado?","Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"99","É possível usar regressão com random forest?","Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"100","Das aplicações de random forest, regressão é uma delas?","Sim, além de ser fácil visualizar a importância relativa que ele atribui para cada característica nas suas entradas.","aplicacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"101","Existem variações na implementação do random forest? ","Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.","implementacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"102","É possível substituir as árvores de decisão por outras estruturas no random forest?","Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.","implementacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"103","A floresta aleatória só funciona baseada em árvores de decisão?","Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.","implementacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"104","Há algum substitutivo para as árvores de decisão na floresta aleatória?","Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.","implementacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"105","Podem ser usados outros algoritmos como estimadores base no random forest?","Ao invés de decision trees, também foi proposta a utilização de modelos lineares como estimadores base em random forests, em particular modelos de regressão logística multinominais e classificadores naive bayes.","implementacao","Eduardo José Silva, Igor Brehm, Israel Deorce Jr e Lucas Stein",""
+"","O que é o algoritmo Floresta aleatória?","Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão","conceito","Bolivar Pereira, Eduardo Cardoso, Evandro Santos e João Marcelo Fantin","Verificar as classes. Há perguntas diferentes na mesma classe. Evitar respostas sim ou não."
+"","Qual a definição do algoritmo Floresta aleatória?","Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão","conceito","",""
+"","O que significa o algoritmo Floresta aleatória?","Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão","conceito","",""
+"","Qual o conceito do algoritmo Floresta aleatória?","Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão","conceito","",""
+"","Qual o significado do algoritmo Floresta aleatória?","Floresta aleatória (random forest) é um algoritmo de aprendizagem de máquina flexível e fácil de usar que produz excelentes resultados a maioria das vezes, mesmo sem ajuste de hiperparâmetros. É também um dos algoritmos mais utilizados, devido à sua simplicidade e o fato de que pode ser utilizado para tarefas de classificação e também de regressão","conceito","",""
+"","Para que serve o algoritmo Floresta aleatória?","Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.","aplicacao","",""
+"","Qual o objetivo do algoritmo Floresta aleatória?","Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.","aplicacao","",""
+"","Qual o propósito do algoritmo Floresta aleatória?","Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.","aplicacao","",""
+"","Qual a finalidade do algoritmo Floresta aleatória?","Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.","aplicacao","",""
+"","O que o algoritmo Floresta aleatória tem como objetivo?","Floresta aleatória (random forest) é um algoritmo de aprendizagem supervisionada. a floresta” que ele cria é uma combinação (ensemble) de árvores de decisão, na maioria dos casos treinados com o método de bagging. a idéia principal do método de bagging é que a combinação dos modelos de aprendizado aumenta o resultado geral.","aplicacao","",""
+"","Como funciona o algoritmo Floresta aleatória?","O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.","funcionamento","",""
+"","Como opera o algoritmo Floresta aleatória?","O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.","funcionamento","",""
+"","Como trabalha o algoritmo Floresta aleatória?","O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.","funcionamento","",""
+"","Qual o funcionamento do algoritmo Floresta aleatória?","O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.","funcionamento","",""
+"","Como o algoritmo Floresta aleatória realiza a classificação?","O algoritmo de florestas aleatórias cria várias árvores de decisão e as combina para obter uma predição com maior acurácia e mais estável.","funcionamento","",""
+"","Quais são os benefícios do algoritmo Floresta aleatória?","https://www.mql5.com/pt/articles/3856","vantagem","",""
+"","Quais as vantagens do algoritmo Floresta aleatória?","https://www.mql5.com/pt/articles/3856","vantagem","",""
+"","O que se pode ganhar utilizando o algoritmo Floresta aleatória?","https://www.mql5.com/pt/articles/3856","vantagem","",""
+"","Por que é preferível utilizar o algoritmo Floresta aleatória?","https://www.mql5.com/pt/articles/3856","vantagem","",""
+"","O que faz o algoritmo Floresta aleatória melhor que os outros?","https://www.mql5.com/pt/articles/3856","vantagem","",""
+"","O que motivou a criação do algoritmo Floresta aleatória?","O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.","historia","",""
+"","O que causou a criação do algoritmo Floresta aleatória?","O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.","historia","",""
+"","Por que o algoritmo Floresta aleatória foi criado?","O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.","historia","",""
+"","Por que o algoritmo Floresta aleatória existe?","O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.","historia","",""
+"","Qual a razão de o algoritmo Floresta aleatória ter sido criado?","O random forest foi criado para tentar resolver problemas de redes neurais, utilizando a dinâmica do vizinho mais próximo.","historia","",""
+"","O que é uma árvore de decisão?","Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.","conceitoArvore","",""
+"","Qual a definição de uma árvore de decisão?","Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.","conceitoArvore","",""
+"","O que significa árvore de decisão?","Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.","conceitoArvore","",""
+"","Qual o conceito de uma árvore de decisão?","Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.","conceitoArvore","",""
+"","Qual o significado de uma árvore de decisão?","Uma árvore de decisão é uma série de perguntas de sim / não sobre nossos dados que acabam levando a uma classe prevista ou valor contínuo, no caso de regressão.","conceitoArvore","",""
+"","O que é o método de subespaço aleatório?","O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.","metodo","",""
+"","Qual a definição do método de subespaço aleatório?","O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.","metodo","",""
+"","O que significa método de subespaço aleatório?","O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.","metodo","",""
+"","Qual o conceito do método de subespaço aleatório?","O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.","metodo","",""
+"","Qual o significado do método de subespaço aleatório?","O método de subespaço aleatório é um método de aprendizado conjunto que tenta reduzir a correlação entre estimadores em um conjunto, treinando-os em amostras aleatórias de recursos, em vez de todo o conjunto de recursos.","metodo","",""
+"","Quais são os malefícios do uso do algoritmo Floresta aleatória?","https://www.mql5.com/pt/articles/3856","desvantagem","",""
+"","Que prejuízos o algoritmo Floresta aleatória pode causar à aplicação?","https://www.mql5.com/pt/articles/3856","desvantagem","",""
+"","Quais são as desvantagens do uso do algoritmo Floresta aleatória?","https://www.mql5.com/pt/articles/3856","desvantagem","",""
+"","Em qual situação o algoritmo Floresta aleatória pode prejudicar a aplicação?","https://www.mql5.com/pt/articles/3856","desvantagem","",""
+"","Quais são as características ruins do algoritmo Floresta aleatória?","https://www.mql5.com/pt/articles/3856","desvantagem","",""
+"","Para que servem os parâmetros do Floresta aleatória?","aumentar o poder preditivo ou tornar o modelo mais rápido.","hiperparametro","",""
+"","Para que são utilizados os parâmetros do Floresta aleatória?","aumentar o poder preditivo ou tornar o modelo mais rápido.","hiperparametro","",""
+"","Se mudarmos os parâmetros do Floresta aleatória o que pode ser modificado?","aumentar o poder preditivo ou tornar o modelo mais rápido.","hiperparametro","",""
+"","Qual o impacto dos parâmetros no algoritmo Floresta aleatória?","aumentar o poder preditivo ou tornar o modelo mais rápido.","hiperparametro","",""
+"","O aumento dos parâmetros traz quais benefícios ao Floresta aleatória?","aumentar o poder preditivo ou tornar o modelo mais rápido.","hiperparametro","",""
+"","Quais são os parâmetros que devem ser modificados para aumentar o poder preditivo do Floresta aleatória?","max_features, n_estimators e min_sample_leaf","hiperparametro","",""
+"","Quais parâmetros podem ser modificados para aumentar o poder preditivo do Floresta aleatória?","max_features, n_estimators e min_sample_leaf","hiperparametro","",""
+"","Quais modificações podem aumentar o poder preditivo do Floresta aleatória?","max_features, n_estimators e min_sample_leaf","hiperparametro","",""
+"","Quais são os parâmetros responsáveis por aumentar o poder preditivo do Floresta aleatória?","max_features, n_estimators e min_sample_leaf","hiperparametro","",""
+"","Com quais parâmetros o Floresta aleatória melhora seu poder preditivo?","max_features, n_estimators e min_sample_leaf","hiperparametro","",""
+"","Quais são os parâmetros que devem ser modificados para aumentar a velocidade do modelo do Floresta aleatória?","n_jobs, random_state e oob_score","hiperparametro","",""
+"","Quais parâmetros podem ser modificados para aumentar a velocidade do modelo do Floresta aleatória?","n_jobs, random_state e oob_score","hiperparametro","",""
+"","Quais modificações podem aumentar a velocidade do modelo do Floresta aleatória?","n_jobs, random_state e oob_score","hiperparametro","",""
+"","Quais são os parâmetros responsáveis por aumentar a velocidade do modelo do Floresta aleatória?","n_jobs, random_state e oob_score","hiperparametro","",""
+"","Com quais parâmetros o Floresta aleatória torna-se mais eficaz?","n_jobs, random_state e oob_score","hiperparametro","",""
+"","Quantas e quais são as fases do Floresta aleatória?","Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária","funcionamento","",""
+"","Como funcionam as fases do Floresta aleatória e quantas são?","Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária","funcionamento","",""
+"","Quais mudanças são exercidas por cada fase do Floresta aleatória?","Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária","funcionamento","",""
+"","O que cada fase do Floresta aleatória faz?","Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária","funcionamento","",""
+"","Quais os papéis de cada fase do Floresta aleatória?","Duas fases; de treinamento: consiste em treinar cada árvore de decisão, os subconjuntos de dados são selecionados a partir do conjunto de dados de treinamento e definidos usando a estratégia bagging aleatória; e a segunda fase consiste em classificar os dados de teste pela votação maioritária","funcionamento","",""
+"","Qual tipo de paradigma é utilizado pelo Floresta aleatória?","aprendizado supervisionado.","paradigma","",""
+"","Qual o paradigma utilizado pelo Floresta aleatória?","aprendizado supervisionado.","paradigma","",""
+"","Qual tipo de paradigma o Floresta aleatória utiliza?","aprendizado supervisionado.","paradigma","",""
+"","O Floresta aleatória utiliza qual tipo de paradigma?","aprendizado supervisionado.","paradigma","",""
+"","Qual paradigma o algoritmo Floresta aleatória segue?","aprendizado supervisionado.","paradigma","",""
+"","Como é feito o treinamento da Floresta Aleatória?","Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.","funcionamento","",""
+"","Como a Floresta Aleatória é treinada?","Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.","funcionamento","",""
+"","Como se treina a Floresta Aleatória?","Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.","funcionamento","",""
+"","Como ocorre o treinamento da Floresta Aleatória?","Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.","funcionamento","",""
+"","O que é feito para treinar a Floresta Aleatória?","Cria uma amostra de N casos aleatórios e, com M variáveis preditoras escolhidas aleatoriamente, realiza divisão binária, nó por nó, com base em uma função.","funcionamento","",""
+"","Quem desenvolveu o algoritmo Floresta aleatória?","Tin Kam Ho","historia","",""
+"","Quem criou o algoritmo Floresta aleatória?","Tin Kam Ho","historia","",""
+"","Qual o nome de quem elaborou o algoritmo Floresta aleatória?","Tin Kam Ho","historia","",""
+"","Qual o nome do criador do algoritmo random forest?","Tin Kam Ho","historia","",""
+"","Qual o nome do desenvolvedor do algoritmo Floresta aleatória","Tin Kam Ho","historia","",""
+"","O que são os hiperparâmetros?","Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.","conceitoHiperparametro","",""
+"","Qual a definição de hiperparâmetros?","Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.","conceitoHiperparametro","",""
+"","O que significa hiperparâmetro?","Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.","conceitoHiperparametro","",""
+"","Qual o conceito de hiperparâmetro?","Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.","conceitoHiperparametro","",""
+"","Qual o significado de hiperparâmetro?","Os hiperparâmetros são usados para parametrizar o processo de instanciação do modelo, como ferramentas que descrevem a configuração do modelo.","conceitoHiperparametro","",""
+"","Quando o algoritmo Floresta aleatória foi criado?","O método de florestas de decisão aleatórias foi proposto em 1995","historia","",""
+"","Qual a data de criação do algoritmo Floresta aleatória?","O método de florestas de decisão aleatórias foi proposto em 1995","historia","",""
+"","Em que momento o algoritmo Floresta aleatória foi criado?","O método de florestas de decisão aleatórias foi proposto em 1995","historia","",""
+"","Há quanto tempo o algoritmo Floresta aleatória foi criado?","O método de florestas de decisão aleatórias foi proposto em 1995","historia","",""
+"","Em que data foi criado o algoritmo Floresta aleatória?","O método de florestas de decisão aleatórias foi proposto em 1995","historia","",""
+"","Como se evita overfitting no random forest?","É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.","overfitting","",""
+"","O que pode ser feito para evitar overfitting no random forest?","É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.","overfitting","",""
+"","Como o overfitting pode ser evitado no random forest?","É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.","overfitting","",""
+"","O que pode evitar a ocorrência de overfitting no random forest?","É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.","overfitting","",""
+"","Como evitar overfitting no random forest?","É necessário otimizar o parâmetro controlador dos recursos que são escolhidos aleatoriamente para aumentar cada árvore.","overfitting","",""
+"","Qual a diferença entre regressão e classificação?","Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.","tarefa","",""
+"","O que difere regressão de classificação?","Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.","tarefa","",""
+"","Quais os contextos de regressão e classificação?","Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.","tarefa","",""
+"","O que são problemas de regressão ou classificação?","Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.","tarefa","",""
+"","Por que regressão e classificação diferem?","Em um problema de regressão, estamos tentando prever os resultados em uma saída contínua, ou função contínua. Em um problema de classificação, estamos tentando prever os resultados em uma saída discreta.","tarefa","",""
+"","O que é aprendizagem supervisionada?","É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.","paradigma","",""
+"","Qual a definição de aprendizagem supervisionada?","É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.","paradigma","",""
+"","O que significa aprendizagem supervisionada?","É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.","paradigma","",""
+"","Qual o conceito de aprendizagem supervisionada?","É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.","paradigma","",""
+"","Qual o significado de aprendizagem supervisionada?","É a tarefa de aprendizado de máquina de aprender uma função que mapeia uma entrada para uma saída com base em pares de entrada/saída de exemplo.","paradigma","",""
+"","","","","",""
+"","O que é Floresta aleatória?","random forest é um algoritmo de aprendizagem de máquina","conceito","Gabriel Löff, Leonardo Vizzotto, Lucas Demoliner, João Garcia","V"
+"","What is random forest?","random forest é um algoritmo de aprendizagem de máquina","conceito","",""
+"","o que é floresta aleatória?","random forest é um algoritmo de aprendizagem de máquina","conceito","",""
+"","o que seria o floresta aleatória?","random forest é um algoritmo de aprendizagem de máquina","conceito","",""
+"","algoritmo random forest","random forest é um algoritmo de aprendizagem de máquina","conceito","",""
+"","Como funciona o algoritmo random forest?","Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.","funcionamento","",""
+"","O algoritmo random forest funciona de qual forma?","Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.","funcionamento","",""
+"","Como é o funcionamento do algoritmo random forest?","Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.","funcionamento","",""
+"","Como funciona o algoritmo Floresta aleatória?","Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.","funcionamento","",""
+"","Como é o funcionamento do algoritmo Floresta aleatorio?","Ele cria várias árvores de decisão e as combina para obter uma predição mais precisa e estável.","funcionamento","",""
+"","Por que usar o random forest?","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","para que serve o random forest?","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","quais as aplicações do random forest?","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","random forest e suas aplicações","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","pra que usar Floresta aleatória?","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","Quais as vantagens do algoritmo random forest?","Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.","aplicacao","",""
+"","Quais os benefícios ao utilizar o algoritmo random forest?","Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.","aplicacao","",""
+"","Qual o proveito de utilizar o algoritmo random forest?","Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.","aplicacao","",""
+"","Quais as vantagens do algoritmo Floresta aleatória?","Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.","aplicacao","",""
+"","Qual o proveito de utilizar o algoritmo Floresta aleatória?","Ele pode ser utilizado tanto para regressão quanto para classificação e é fácil de visualizar a importância relativa que ele atribui a cada característica nas suas entradas.","aplicacao","",""
+"","Quais as desvantagens do algoritmo random forest?","a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. ","aplicacao","",""
+"","Quais os prejuízos de utilizar o algoritmo random forest?","a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. ","aplicacao","",""
+"","Quais as limitações do algoritmo random forest?","a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. ","aplicacao","",""
+"","Quais as limitações do algoritmo Floresta aleatória?","a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. ","aplicacao","",""
+"","Quais as desvantagens do algoritmo Floresta aleatória?","a maior limitação dele é que uma quantidade grande de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. ","aplicacao","",""
+"","Quem criou o random forest?"," Tin Kam Ho","historia","",""
+"","Quem desenvolveu o random forest?"," Tin Kam Ho","historia","",""
+"","Nome criador random forest"," Tin Kam Ho","historia","",""
+"","Quem criou florest aleatória"," Tin Kam Ho","historia","",""
+"","Nome criador floresta aleatória"," Tin Kam Ho","historia","",""
+"","Data criação random forest","1995","historia","",""
+"","ano criação random forest","1995","historia","",""
+"","Data criação floresta aleatória","1995","historia","",""
+"","ano criação floresta aleatória","1995","historia","",""
+"","Quando foi criado o random forest?","1995","historia","",""
+"","Floresta aleatória usa árvore de decisão?","Sim, o algoritmo random forest utiliza árvore de decisão","classificacao","",""
+"","random forest usa árvore de decisão?","Sim, o algoritmo random forest utiliza árvore de decisão","classificacao","",""
+"","random forest utiliza árvore de decisão?","Sim, o algoritmo random forest utiliza árvore de decisão","classificacao","",""
+"","floresta aleatória usa árvores de decisão?","Sim, o algoritmo random forest utiliza árvore de decisão","classificacao","",""
+"","random forest e árvore de decisão","Sim, o algoritmo random forest utiliza árvore de decisão","classificacao","",""
+"","o que é árvore de decisão?","em uma árvore de decisão cada nodo interno representa um teste em um atributo","conceito","",""
+"","o que é decision tree?","em uma árvore de decisão cada nodo interno representa um teste em um atributo","conceito","",""
+"","O que é Árvore de Decisão?","em uma árvore de decisão cada nodo interno representa um teste em um atributo","conceito","",""
+"","árvore de decisão","em uma árvore de decisão cada nodo interno representa um teste em um atributo","conceito","",""
+"","o que seria uma árvore de decisão?","em uma árvore de decisão cada nodo interno representa um teste em um atributo","conceito","",""
+"","Qual a diferença entre Floresta aleatória e arvore de Decisão?","Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.","comparacao","",""
+"","Quais as distinções entre Floresta aleatória e arvore de Decisão?","Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.","comparacao","",""
+"","Qual as diferenças entre random forest e Decision Tree?","Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.","comparacao","",""
+"","Diferença entre Floresta aleatória e arvore de Decisão?","Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.","comparacao","",""
+"","Qual a diferença entre random forest e arvore de Decisão?","Floresta aleatória é uma coleção de arvores de decisão adicionando o elemento da aleatoriedade para evitar o sobreajuste.","comparacao","",""
+"","quais os principais hiperparametros para aumentar o poder preditivo?","Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf","parametro","",""
+"","quais os principais hiperparametros utilizados para aumentar o poder preditivo?","Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf","parametro","",""
+"","principais hiperparametros para aumentar o poder preditivo","Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf","parametro","",""
+"","quais os principais hiperparametros para aumentar o poder preditivo na random forest?","Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf","parametro","",""
+"","quais os principais hiperparametros utilizados para aumentar o poder preditivo na random forest?","Os principais parâmetros para aumentar o poder preditivo são: n_estimators, max_features e min_same_leaf","parametro","",""
+"","quais os principais hiperparametros para aumentar a velocidade do modelo?","Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score","parametro","",""
+"","quais os principais hiperparametros utilizados para aumentar a velocidade do modelo?","Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score","parametro","",""
+"","principais hiperparametros para aumentar a velocidade do modelo","Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score","parametro","",""
+"","quais os principais hiperparametros para aumentar a velocidade do modelo na random forest?","Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score","parametro","",""
+"","quais os principais hiperparametros utilizados para aumentar a velocidade do modelo na random forest?","Os principais parâmetros para aumentar a velocidade do modelo são: n_jobs,  random_state, oob_score","parametro","",""
+"","Como é construída uma floresta aleatória?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","funcionamento","",""
+"","Como construir uma floresta aleatória?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","funcionamento","",""
+"","Como construir uma random forest?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","funcionamento","",""
+"","Como é construída uma random forest?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","funcionamento","",""
+"","Como fazer para construir floresta aleatória?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","funcionamento","",""
+"","Em que areas a floresta aleatória é utilizada?","O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.","aplicacao","",""
+"","Que areas utilizam o algoritmo Floresta aleatória?","O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.","aplicacao","",""
+"","Quais areas utilizam o algoritmo random forest?","O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.","aplicacao","",""
+"","Em quais areas o algoritmo random forest é utilizado?","O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.","aplicacao","",""
+"","O random forest é utilizado em quais areas?","O algorimo Floresta aleatória é utilizado em muitas áreas diferentes, tal como setor bancário, mercado financeiro, medicina, comércio eletrônico.","aplicacao","",""
+"","Quais as caracteristicas do algoritmo random forest?","Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.","caracteristica","",""
+"","Quais as caracteristicas do random forest?","Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.","caracteristica","",""
+"","Quais as caracteristicas da floresta aleatório?","Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.","caracteristica","",""
+"","random forest tem quais caracteristicas?","Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.","caracteristica","",""
+"","Floresta aleatória tem quais caracteristicas?","Floresta aleatória é uma ferramenta (geralmente) rápida, simples e flexível.","caracteristica","",""
+"","Como é utilizada o random forest no sistema financeiro?","ele é utilizado para determinar o desempenho futuro de uma ação.","aplicacao","",""
+"","Como o algoritmo random forest é utilizado no sistema financeiro?","ele é utilizado para determinar o desempenho futuro de uma ação.","aplicacao","",""
+"","random forest é utilizada como no sistema financeiro","ele é utilizado para determinar o desempenho futuro de uma ação.","aplicacao","",""
+"","Como o algoritmo Floresta aleatória é utilizado no sistema financeiro?","ele é utilizado para determinar o desempenho futuro de uma ação.","aplicacao","",""
+"","random forest no sistema financeiro","ele é utilizado para determinar o desempenho futuro de uma ação.","aplicacao","",""
+"","Como é utilizado o random forest na área da saúde?","é utilizado para analisar o histórico médico de um paciente para identificar doenças","aplicacao","",""
+"","Como é utilizado o random forest na área médica?","é utilizado para analisar o histórico médico de um paciente para identificar doenças","aplicacao","",""
+"","random forest é utilizado como na área da saúde?","é utilizado para analisar o histórico médico de um paciente para identificar doenças","aplicacao","",""
+"","random forest é utilizado como na área médica?","é utilizado para analisar o histórico médico de um paciente para identificar doenças","aplicacao","",""
+"","random forest na área da saúde","é utilizado para analisar o histórico médico de um paciente para identificar doenças","aplicacao","",""
+"","Como é utilizado o random forest no comércio eletrônico ?","é utilizado para determinar se um cliente irá gostar do produto ou não.","aplicacao","",""
+"","Como é utilizado o random forest no e-commerce?","é utilizado para determinar se um cliente irá gostar do produto ou não.","aplicacao","",""
+"","Como o algoritmo random forest é utilizado no e-commerce?","é utilizado para determinar se um cliente irá gostar do produto ou não.","aplicacao","",""
+"","random forest é utilizado como no e-commerce?","é utilizado para determinar se um cliente irá gostar do produto ou não.","aplicacao","",""
+"","random forest no comércio eletrônico","é utilizado para determinar se um cliente irá gostar do produto ou não.","aplicacao","",""
+"","Como é utilizado o random forest no sistema bancário?","é utilizado para detectar fraudes de clientes que querem lesar o banco.","aplicacao","",""
+"","Como usam o random forest no sistema bancário?","é utilizado para detectar fraudes de clientes que querem lesar o banco.","aplicacao","",""
+"","Como os bancos usam o random forest?","é utilizado para detectar fraudes de clientes que querem lesar o banco.","aplicacao","",""
+"","Como os bancos utilizam o random forest?","é utilizado para detectar fraudes de clientes que querem lesar o banco.","aplicacao","",""
+"","random forest no sistema bancário?","é utilizado para detectar fraudes de clientes que querem lesar o banco.","aplicacao","",""
+"","O algoritmo random forest é I.a.?","Sim, é um algoritmo de inteligência artificial","definicao","",""
+"","O algoritmo Floresta aleatória é I.a?","Sim, é um algoritmo de inteligência artificial","definicao","",""
+"","Podemos considerar o algoritmo random forest como I.a.?","Sim, é um algoritmo de inteligência artificial","definicao","",""
+"","O algoritmo random forest é inteligência articial?","Sim, é um algoritmo de inteligência artificial","definicao","",""
+"","floresta aleatória é inteligência artificial?","Sim, é um algoritmo de inteligência artificial","definicao","",""
+"","","","","",""
+"","Qual o objetivo do algoritmo random forest?","","proposito","Fernando Locatelli Maioli, Gabriel Weich",""
+"","O que o algoritmo random forest busca fazer?","Treinar um modelo para regressão ou classificação","proposito","",""
+"","Qual o propósito do algoritmo random forest?","","proposito","",""
+"","Qual a meta do algoritmo random forest?","","proposito","",""
+"","Para que é designado o algoritmo random forest?","","proposito","",""
+"","","","","",""
+"","É um algoritmo de aprendizado supervisionado ou não supervisionado?","","conceito","",""
+"","O algoritmo é supervisionado ou não supervisionado?","Supervisionado, pois deve-se fornecer dados pré-processados ao algoritmo para que ele construa um modelo capaz de fazer predições.","conceito","",""
+"","O random forest é um algoritmo supervisionado ou não supervisionado?","","conceito","",""
+"","O algoritmo random forest é supervisionado ou não supervisionado?","","conceito","",""
+"","Como se classifica o algoritmo random forest?","","conceito","",""
+"","","","","",""
+"","Qual estrutura de dados é utilizada primordialmente?","","funcionamento","",""
+"","Qual é sua principal estrutura de dados?","Árvores, mais especificamente, o algoritmo utiliza um conjunto de várias árvores de decisão para formar o modelo.","funcionamento","",""
+"","Qual estrutura de dados é a base do random forest?","","funcionamento","",""
+"","Qual é a estrutura de dados primordial do Floresta aleatória?","","funcionamento","",""
+"","Qual é a estrutura de dados primordial utilizada no algoritmo?","","funcionamento","",""
+"","","","","",""
+"","Qual a diferença de random forest para decision tree?","","comparacao","",""
+"","Quais as dissemelhanças entre random forest e Decision Tree?","O random forest em si é formado por um conjunto de decision trees, além disso, ele seleciona as features e observações de cada árvore aleatoriamente e costuma evitar overfitting, um dos problemas de decision trees.","comparacao","",""
+"","Quais as diferenças entre o Floresta aleatória e Decision Tree?","","comparacao","",""
+"","O que distingue o random forest da Decision Tree?","","comparacao","",""
+"","Em que o Floresta aleatória e a Árvore de Decisão são diferentes?","","comparacao","",""
+"","","","","",""
+"","Cite algumas vantagens do algoritmo random forest","","vantagem","",""
+"","Quais as vantagens do random forest?","Pode ser usado para Feature Engineering, também é bom em evitar overfitting","vantagem","",""
+"","Por que vale a pena usar o random forest?","","vantagem","",""
+"","Comente as vantagens do algoritmo random forest","","vantagem","",""
+"","Que vantagens traz o random forest?","","vantagem","",""
+"","","","","",""
+"","Cite algumas desvantagens do algoritmo random forest","","desvantagem","",""
+"","Quais as desvantagens do random forest?","Complexidade de implementação, também pode se tornar num modelo muito complexo quando se utiliza muitas árvores, fazendo com que seu entendimento seja bem defícil","desvantagem","",""
+"","Quais as desvantagens do Floresta aleatória?","","desvantagem","",""
+"","Comente as desvantagens do algoritmo random forest","","desvantagem","",""
+"","Que desvantagens traz o random forest?","","desvantagem","",""
+"","","","","",""
+"","Em que ano o algoritmo foi proposto?","O algoritmo foi inicialmente proposto em 1995","historia","",""
+"","Qual o ano em que o random forest foi proposto?","","historia","",""
+"","Em que ano o Floresta aleatória foi proposto?","","historia","",""
+"","O algoritmo foi apresentado em que ano?","","historia","",""
+"","Qual o ano no qual o algoritmo foi proposto?","","historia","",""
+"","","","","",""
+"","De que forma as features são escolhidas em cada decision tree?","","funcionamento","",""
+"","De que forma as features são escolhidas em cada árvore de decisão?","O algoritmo escolhe as features de cada Decision Tree aleatoriamente.","funcionamento","",""
+"","Como são escohidas as features nas árvores de decisão?","","funcionamento","",""
+"","Como se escolhem as features de cada decision tree?","","funcionamento","",""
+"","Como são decididas quais as features de cada árvore de decisão?","","funcionamento","",""
+"","","","","",""
+"","Explique o conceito de bagging","","bagging","",""
+"","O que é bagging?","Quando vários modelos, normalmente mais fracos, são treinados e utilizados para fazer a predição.","bagging","",""
+"","Defina o conceito de bagging","","bagging","",""
+"","Explique como funciona bagging no algoritmo","","bagging","",""
+"","Detalhe o conceito de bagging no Floresta aleatória","","bagging","",""
+"","","","","",""
+"","Como o algoritmo random forest utiliza o conceito de bagging?","","funcionamento","",""
+"","Como é utilizando bagging no algoritmo?","Cada decision tree é treinada em uma parte diferente do conjunto de treino","funcionamento","",""
+"","Como o random forest implementa o conceito de bagging?","","funcionamento","",""
+"","Como é usado o conceito de bagging no Floresta aleatória?","","funcionamento","",""
+"","Como o algoritmo usa bagging?","","funcionamento","",""
+"","","","","",""
+"","Como o algoritmo pode ser utilizado em E-Commerce?","","aplicacao","",""
+"","Como o E-Commerce poderia usar o random forest?","Ele pode ser utilizado, por exemplo, para calcular as chances do usuário clicar em um produto recomendado, assim melhorando os reprodutos recomendados para cada usuário.","aplicacao","",""
+"","Como o algoritmo random forest pode ser usado em um E-Commerce?","","aplicacao","",""
+"","Qual a utilizade do algoritmo random fores em um E-Commerce?","","aplicacao","",""
+"","Como o algoritmo random forest pode ser aplicado em um E-Commerce?","","aplicacao","",""
+"","","","","",""
+"","O que é overfit?","","overfit","",""
+"","Qual a definição de overfit?","Quando um modelo está adaptado demais a certo dataset, como consequência ele tende a falhar ao fazer predições em dados nunca antes vistos.","overfit","",""
+"","O que significa overift?","","overfit","",""
+"","Qual o significado de overift?","","overfit","",""
+"","Qual o significado do termo overfit?","","overfit","",""
+"","","","","",""
+"","Como reduzir o overfit no algoritmo random forest?","","funcionamento","",""
+"","Indique uma forma de reduzir o overfit em um algoritmo random forest.","Com certo número de árvores, já é muito difícil do algoritmo sofrer overfitting, porém é possível diminuir estas chances removendo-se features indesejadas e mantendo-se as mais importantes, pois quanto menos features menores as chances de overfitting.","funcionamento","",""
+"","O que pode ser feito para reduzir o overfit em um algoritmo random forest?","","funcionamento","",""
+"","Como pode-se reduzir o overift de um algoritmo do tipo random forest?","","funcionamento","",""
+"","De que forma pode-se reduzir o overfit em um algoritmo random forest?","","funcionamento","",""
+"","","","","",""
+"","Explique o parâmetro n_estimators do algoritmo random forest.","","nEstimators","",""
+"","Como o parâmetro n_estimators impacta o algoritmo random forest?","É o número de decision trees na floresta quando o algoritmo faz uma predição, mais árvores significa uma predição melhor porém com um custo em computação.","nEstimators","",""
+"","Qual a função do parâmetro n_estimators?","","nEstimators","",""
+"","Para que serve o parâmetro n_estimators?","","nEstimators","",""
+"","De que forma o parâmetro n_estimators influencia o comportamento do algoritmo?","","nEstimators","",""
+"","","","","",""
+"","Qual a consequência das árvores terem alta correlação entre si?","","funcionamento","",""
+"","a que acarretaria as árvores terem alta correlação entre si?","Aumento da taxa de erro do modelo, pois as árvores passam a ficar mais parecidas, de modo que não é necessário ter várias árvores se as predições delas costumam ser iguais, pois o objetivo da floresta é aumentar a variação.","funcionamento","",""
+"","Qual o efeito de as decision trees terem alta correlação entre si?","","funcionamento","",""
+"","Se as árvores tiverem alta correlação entre si, qual é a consequência?","","funcionamento","",""
+"","O que aconteceria se as árvores de decisão tivessem alta correlação entre si?","","funcionamento","",""
+"","","","","",""
+"","Como funciona o hiperparâmentro max_features no algoritmo random forest?","","maxFeatures","",""
+"","De que modo funciona o hiperparâmetro max_features do algoritmo?","É o número máximo de features que o algoritmo pode utilizar para dividir um nodo.","maxFeatures","",""
+"","Como o hiperparâmetro max_features funciona no Floresta aleatória?","","maxFeatures","",""
+"","Como o hiperparâmetro max_features impacta o algoritmo?","","maxFeatures","",""
+"","De que modo o hiperparâmetro max_features funciona no algoritmo?","","maxFeatures","",""
+"","","","","",""
+"","Como funciona o hiperparâmentro max_depth no algoritmo random forest?","","maxDepth","",""
+"","De que modo funciona o hiperparâmetro max_depth do algoritmo?","Determina o limite de profundidade das decision trees que fazem parte da floresta.","maxDepth","",""
+"","Como o hiperparâmetro max_depth funciona no Floresta aleatória?","","maxDepth","",""
+"","Como o hiperparâmetro max_depth impacta o algoritmo?","","maxDepth","",""
+"","De que modo o hiperparâmetro max_depth funciona no algoritmo?","","maxDepth","",""
+"","","","","",""
+"","Como o random forest pode ser utilizado na área médica?","","aplicacao","",""
+"","Como é possível utilizar o random forest na área médica?","Pode ser usado para identicar a combinação correta de componentes para validar uma medicina, ou até para identificar a doença de um paciente.","aplicacao","",""
+"","Como se usaria o Floresta aleatória na área médica?","","aplicacao","",""
+"","Como o algoritmo pode ser usado na medicina?","","aplicacao","",""
+"","Como seria possível utilizar o algoritmo na medicina?","","aplicacao","",""
+"","","","","",""
+"","Como o random forest faz as predições finais?","","funcionamento","",""
+"","Como o Floresta aleatória faz as predições?","Passa a amostra teste por toda floresta e seleciona a predição que possui maior quantidade de votos ou a média das predições dependendo de cada caso.","funcionamento","",""
+"","Como são realizadas as predições finais do algoritmo?","","funcionamento","",""
+"","Como o algoritmo realiza as predições finais?","","funcionamento","",""
+"","Como são calculadas as predições finais do random forest?","","funcionamento","",""
+"","","","","",""
+"","No algoritmo, cada árvore recebe as mesmas amostras de treino?","","funcionamento","",""
+"","as árvores recebem amostras de treino iguais?","Não, o algoritmo busca entregar conjuntos de amostras diferentes para cada árvore, buscando evitar que elas sejam parecidas uma com a outra","funcionamento","",""
+"","O random forest treina cada árvore com as mesmas amostras?","","funcionamento","",""
+"","as amostras de treino utilizadas para cada decision tree são iguais?","","funcionamento","",""
+"","São iguais as amostras utilizadas para treinar as decision trees da floresta?","","funcionamento","",""
+"","","","","",""
+"","Quais são os dois métodos de aprendizado de máquina usados pelo algoritmo Floresta aleatória?","Os métodos utilizados são o bagging e a árvores de decisão.","metodos","Eduardo, Homero, Mayara e Rafael",""
+"","Quais são os dois métodos de aprendizado de máquina usados pelo algoritmo random forest?","Os métodos utilizados são o bagging e a árvores de decisão.","metodos","",""
+"","São dois métodos de aprendizado de máquina usados pelo algoritmo Floresta aleatória, quais são eles?","Os métodos utilizados são o bagging e a árvores de decisão.","metodos","",""
+"","Cite os dois métodos de aprendizado de máquina usados pelo algoritmo Floresta aleatória?","Os métodos utilizados são o bagging e a árvores de decisão.","metodos","",""
+"","Cite os dois métodos de aprendizado de máquina usados pelo algoritmo random forest?","Os métodos utilizados são o bagging e a árvores de decisão.","metodos","",""
+"","Qual é a aplicação do algoritmo Floresta aleatória?","Utilizado para aprendizagem de máquina.","proposito","",""
+"","Qual é a aplicação do algoritmo random forest?","Utilizado para aprendizagem de máquina.","proposito","",""
+"","Qual o uso do algoritmo random forest?","Utilizado para aprendizagem de máquina.","proposito","",""
+"","Para que é usado o algoritmo random forest?","Utilizado para aprendizagem de máquina.","proposito","",""
+"","Para que é usado o algoritmo Floresta aleatória?","Utilizado para aprendizagem de máquina.","proposito","",""
+"","Quem criou o algoritmo Floresta aleatório?","Tin Kam Ho","historia","",""
+"","Quem criou o algoritmo random forest?","Tin Kam Ho","historia","",""
+"","Qual o nome do criador do algoritmo Floresta aleatório?","Tin Kam Ho","historia","",""
+"","Qual o nome do criador do algoritmo random forest?","Tin Kam Ho","historia","",""
+"","Quem desenvolveu  o algoritmo Floresta aleatório?","Tin Kam Ho","historia","",""
+"","random forest utiliza árvore de decisão?","Sim","metodos","",""
+"","Floresta aleatória utiliza árvore de decisão?","Sim","metodos","",""
+"","O algoritmo Floresta aleatória utiliza árvore de decisão?","Sim","metodos","",""
+"","O algoritmo Floresta aleatória utiliza o método de árvore de decisão?","Sim","metodos","",""
+"","O algoritmo random forest utiliza o método de árvore de decisão?","Sim","metodos","",""
+"","random forest utiliza bagging?","Sim","metodos","",""
+"","Floresta aleatória utiliza bagging ?","Sim","metodos","",""
+"","O algoritmo random forest utiliza bagging?","Sim","metodos","",""
+"","O algoritmo Floresta aleatória utiliza bagging ?","Sim","metodos","",""
+"","bagging é utilizado pelo random forest?","Sim","metodos","",""
+"","Nas árvores ensacadas, as árvores individuais são independentes?","Sim","metodos","",""
+"","Nas árvores ensacadas, as árvores individuais são independentes umas das outras?","Sim","metodos","",""
+"","Em árvores de ensacamento, as arvores individuais são independentes?","Sim","metodos","",""
+"","as árvores individuais nas árvores de ensacamento são independentes umas das outras?","Sim","metodos","",""
+"","Em árvores de ensacamento, as arvores individuais são independentes umas das outras?","Sim","metodos","",""
+"","bagging é um método utilizado para melhorar o desempenho, agregando resultados de aprendizados ruins?","Sim","aprendizadoRuim","",""
+"","bagging é um método para melhorar o desempenho, agregando os resultados de aprendizados fracos?","Sim","aprendizadoRuim","",""
+"","O método bagging melhora o desempenho, agregando os resultados de aprendizados fracos?","Sim","aprendizadoRuim","",""
+"","O método the bagging melhora seu desempenho agregando aprendizados fracos?","Sim","aprendizadoRuim","",""
+"","O método bagging melhora o desempenho agregando aprendizados fracos?","Sim","aprendizadoRuim","",""
+"","O algoritmo Floresta aleatória possibilita um método efetivo de substituição de dados ausentes?","Sim","metodos","",""
+"","Floresta aleatória é um algoritmo que possibilita um método efetivo de substituição de dados ausentes?","Sim","metodos","",""
+"","random forest é um algoritmo que possibilita um método efetivo de substituição de dados ausentes?","Sim","metodos","",""
+"","O algoritmo random forest possibilita um método efetivo de substituição de dados ausentes?","Sim","metodos","",""
+"","Substituição de dados ausentes é um método efetivo possibilitado pelo algoritmo Floresta aleatória?","Sim","metodos","",""
+"","a natureza aleatória de construção de cada árvore minimiza o sobreajuste?","Sim","sobreajuste","",""
+"","a natureza aleatória de construção de cada árvore minimiza o overfitting?","Sim","sobreajuste","",""
+"","a natureza aleatória de construção de cada árvore causa redução do sobreajuste?","Sim","sobreajuste","",""
+"","a natureza aleatória de construção de cada árvore causa redução do overfitting?","Sim","sobreajuste","",""
+"","a redução do overfitting pode ser causada pela natureza aleatória de construção de cada árvore?","Sim","sobreajuste","",""
+"","O algoritmo Floresta aleatório pode lidar com grandes datasets e com grande número de atributos?","Sim","funcionamento","",""
+"","O algoritmo random forest pode lidar com grandes datasets e com grande número de atributos?","Sim","funcionamento","",""
+"","O algoritmo random forest pode lidar com grandes coleções de dados e com grande número de atributos?","Sim","funcionamento","",""
+"","O algoritmo Floresta aleatório pode lidar com grandes coleções de dados e com grande número de atributos?","Sim","funcionamento","",""
+"","O algoritmo Floresta aleatório pode lidar com grandes coleções de dados e com grande número de atributos?","Sim","funcionamento","",""
+"","O algoritmo Floresta aleatório tende a ter bom desempenho com dados desbalanceados?","Sim","desbalanceamento","",""
+"","O algoritmo random forest tende a ter bom desempenho com dados desbalanceados?","Sim","desbalanceamento","",""
+"","Com dados balaceados o algoritmo random forest tende a ter bom desempenho?","Sim","desbalanceamento","",""
+"","Com dados balanceados o algoritmo Floresta aleatório tende a ter bom desempenho?","Sim","desbalanceamento","",""
+"","random forest tende a ter bom desempenho com dados desbalanceados?","Sim","desbalanceamento","",""
+"","Em que ano foi criado o algoritmo Floresta aleatório?","Foi criado em 1995.","historia","",""
+"","Qual foi o ano de criação do algoritmo Floresta aleatório?","Foi criado em 1995.","historia","",""
+"","O algoritmo Floresta aleatório foi criado em que ano?","Foi criado em 1995.","historia","",""
+"","Em que ano o algoritmo Floresta aleatório foi criado?","Foi criado em 1995.","historia","",""
+"","Em qual ano o algoritmo random forest foi criado?","Foi criado em 1995.","historia","",""
+"","O algoritmo Floresta aleatória pode ser utilizado tanto para regressão quanto para classificação?","Sim","metodos","",""
+"","O algoritmo random forest pode ser utilizado tanto para regressão quanto para classificação?","Sim","metodos","",""
+"","Floresta aleatória pode ser utilizado tanto para regressão quanto para classificação?","Sim","metodos","",""
+"","random forest pode ser utilizado tanto para regressão quanto para classificação?","Sim","metodos","",""
+"","Pode o algoritmo random forest ser utilizado tanto para regressão quanto para classificação?","Sim","metodos","",""
+"","O algoritmo Floresta aleatório tende a ter desempenho ruim com dados desbalanceados?","Não","desbalanceamento","",""
+"","O algoritmo random forest tende a ter desempenho ruim com dados desbalanceados?","Não","desbalanceamento","",""
+"","Com dados desbalanceados o algoritmo random forest tende a ter desempenho ruim?","Não","desbalanceamento","",""
+"","Com dados desbalanceados o algoritmo Floresta aleatório tende a ter desempenho ruim?","Não","desbalanceamento","",""
+"","random forest tende a ter desempenho ruim com dados desbalanceados?","Não","desbalanceamento","",""
+"","O algorimo Floresta aleatória é utilizado em muitas áreas diferentes?","Pode ser utilizado nos setores bancário, mercado financeiro, medicina e comércio eletrônico","aplicacao","",""
+"","O algorimo random forest é utilizado em muitas áreas diferentes?","sim, nos setores bancário, mercado financeiro, medicina e comércio eletrônico","aplicacao","",""
+"","Floresta aleatória é utilizado em muitas áreas diferentes?","sim, nos setores bancário, mercado financeiro, medicina e comércio eletrônico","aplicacao","",""
+"","random forest é utilizado em muitas áreas diferentes?","sim, nos setores bancário, mercado financeiro, medicina e comércio eletrônico","aplicacao","",""
+"","O algoritmo da Floresta aleatória pode ser usada em muitas áreas diferentes?","sim, nos setores bancário, mercado financeiro, medicina e comércio eletrônico","aplicacao","",""
+"","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo?","Sim","aplicacao","",""
+"","O random forest é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo?","Sim","aplicacao","",""
+"","O algoritmo Floresta aletória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo?","Sim","aplicacao","",""
+"","O algoritmo random forest é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo?","Sim","aplicacao","",""
+"","O algoritmo random forest é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo?","Sim","aplicacao","",""
+"","Floresta aleatória pode ser usado para tarefas de classificação?","Sim","aplicacao","",""
+"","random forest pode ser usado para tarefas de classificação?","Sim","aplicacao","",""
+"","O algoritmo Floresta aleatória pode ser usado para tarefas de classificação?","Sim","aplicacao","",""
+"","O algoritmo random forest pode ser usado para tarefas de classificação?","Sim","aplicacao","",""
+"","O algoritmo random forest pode ser aplicado para tarefas de classificação?","Sim","aplicacao","",""
+"","O que é algoritmo Floresta aleatória?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação, regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento.","conceito","",""
+"","Descreva o que é o algoritmo Floresta aleatória?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação, regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento.","conceito","",""
+"","O que é algoritmo random forest?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação, regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento.","conceito","",""
+"","Descreva o que é o algoritmo random forest?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação, regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento.","conceito","",""
+"","O que é random forest?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação, regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento.","conceito","",""
+"","Floresta aleatória pode ser usado para tarefas de regressão?","Sim","aplicacao","",""
+"","random forest pode ser usado para tarefas de regressão?","Sim","aplicacao","",""
+"","Floresta aleatória pode ser aplicado para tarefas de regressão?","Sim","aplicacao","",""
+"","random forest é um algoritmo que pode ser aplicado para tarefas de regressão?","Sim","aplicacao","",""
+"","O algoritmo Floresta aleatória pode ser aplicado para tarefas de regressão?","Sim","aplicacao","",""
+"","O algoritmo é propenso a overfitting, especialmente em tarefas com muito ruído?","Sim, mas parte deste problema pode ser resolvido ajustando um parâmetro.","desvantagem","",""
+"","O algoritmo random forest é propenso a overfitting, especialmente em tarefas com muito ruído?","Sim, mas parte deste problema pode ser resolvido ajustando um parâmetro.","desvantagem","",""
+"","O algoritmo Floresta aleatória é propenso a overfitting, especialmente em tarefas com muito ruído?","Sim, mas parte deste problema pode ser resolvido ajustando um parâmetro.","desvantagem","",""
+"","Floresta aleatória é propenso a overfitting, especialmente em tarefas com muito ruído?","Sim, mas parte deste problema pode ser resolvido ajustando um parâmetro.","desvantagem","",""
+"","Realmente o algoritmo Floresta aleatória é propenso a overfitting, ainda mais em tarefas com muito ruído?","Sim, mas parte deste problema pode ser resolvido ajustando um parâmetro.","desvantagem","",""
+"","","","","",""
+"","O que é o algoritmo random forest?","É um algoritmo de aprendizagem de máquina que na grande maioria das vezes apresenta ótimos resultados. ","conceito","Gian e João",""
+"","Qual a definição do algoritmo random forest?","É um algoritmo de aprendizagem de máquina que na grande maioria das vezes apresenta ótimos resultados. ","definicao","",""
+"","Do que se trata o random forest?","É um algoritmo de aprendizagem de máquina que na grande maioria das vezes apresenta ótimos resultados. ","definicao","",""
+"","Qual a descrição do algoritmo random forest?","É um algoritmo de aprendizagem de máquina que na grande maioria das vezes apresenta ótimos resultados. ","definicao","",""
+"","O algoritmo random forest tem qual declaração?","É um algoritmo de aprendizagem de máquina que na grande maioria das vezes apresenta ótimos resultados. ","definicao","",""
+"","Como funciona o algoritmo?","O algoritmo cria combinações de árvores de decisão utilizando o método de bagging, sendo assim uma floresta de modo aleatório. ","definicao","",""
+"","Como é o funcionamento do algoritmo?","O algoritmo cria combinações de árvores de decisão utilizando o método de bagging, sendo assim uma floresta de modo aleatório. ","definicao","",""
+"","O que o algoritmo faz?","O algoritmo cria combinações de árvores de decisão utilizando o método de bagging, sendo assim uma floresta de modo aleatório. ","definicao","",""
+"","De que forma se dá o funcionamento?","O algoritmo cria combinações de árvores de decisão utilizando o método de bagging, sendo assim uma floresta de modo aleatório. ","definicao","",""
+"","Como é a execução do algoritmo?","O algoritmo cria combinações de árvores de decisão utilizando o método de bagging, sendo assim uma floresta de modo aleatório. ","definicao","",""
+"","Qual a vantagem do algoritmo?","Pode-se utilizar o mesmo para tarefas de regressão e classificação, os quais estão presentes na grande maioria dos sistemas de aprendizagem de máquina atualmente. ","definicao","",""
+"","Que vantagem o algoritmo traz?","Pode-se utilizar o mesmo para tarefas de regressão e classificação, os quais estão presentes na grande maioria dos sistemas de aprendizagem de máquina atualmente. ","definicao","",""
+"","Por que é vantajoso o uso?","Pode-se utilizar o mesmo para tarefas de regressão e classificação, os quais estão presentes na grande maioria dos sistemas de aprendizagem de máquina atualmente. ","definicao","",""
+"","Qual é o ponto forte de usá-lo?","Pode-se utilizar o mesmo para tarefas de regressão e classificação, os quais estão presentes na grande maioria dos sistemas de aprendizagem de máquina atualmente. ","definicao","",""
+"","Qual o benefício que ele apresenta?","Pode-se utilizar o mesmo para tarefas de regressão e classificação, os quais estão presentes na grande maioria dos sistemas de aprendizagem de máquina atualmente. ","definicao","",""
+"","Quais os hiperparâmetros do algoritmo?","Os mesmos que de uma árvore de decisão e os de um classificador de bagging que controlam as combinações das árvores. ","Hiperparametro","",""
+"","O algoritmo tem quais hiperparâmetros?","Os mesmos que de uma árvore de decisão e os de um classificador de bagging que controlam as combinações das árvores. ","Hiperparametro","",""
+"","Qual a hiper-parametrização do algoritmo?","Os mesmos que de uma árvore de decisão e os de um classificador de bagging que controlam as combinações das árvores. ","Hiperparametro","",""
+"","Quais os principais hiperparâmetros do algoritmo?","Os mesmos que de uma árvore de decisão e os de um classificador de bagging que controlam as combinações das árvores. ","Hiperparametro","",""
+"","a respeito de hiperparâmetros, quais são os que o algoritmo apresenta?","Os mesmos que de uma árvore de decisão e os de um classificador de bagging que controlam as combinações das árvores. ","Hiperparametro","",""
+"","Qual a analogia do algoritmo com a vida real?","Uma pergunta para um conhecido sobre restaurantes e o conhecido o pergunta quais ele já foi e se foram bons ou não. De acordo com as respostas  o conhecido dá sugestões para o amigo.","aplicacao","",""
+"","Qual aplicação com a vida real o algoritmo dá?","Uma pergunta para um conhecido sobre restaurantes e o conhecido o pergunta quais ele já foi e se foram bons ou não. De acordo com as respostas  o conhecido dá sugestões para o amigo.","aplicacao","",""
+"","Exemplo de um caso real com o funcionamento do algoritmo.","Uma pergunta para um conhecido sobre restaurantes e o conhecido o pergunta quais ele já foi e se foram bons ou não. De acordo com as respostas  o conhecido dá sugestões para o amigo.","aplicacao","",""
+"","Cite uma analogia do algoritmo com a vida real.","Uma pergunta para um conhecido sobre restaurantes e o conhecido o pergunta quais ele já foi e se foram bons ou não. De acordo com as respostas  o conhecido dá sugestões para o amigo.","aplicacao","",""
+"","Cite um exemplo na vida real que tenha a ver com o algoritmo.","Uma pergunta para um conhecido sobre restaurantes e o conhecido o pergunta quais ele já foi e se foram bons ou não. De acordo com as respostas  o conhecido dá sugestões para o amigo.","aplicacao","",""
+"","Quais os principais hiperparâmetros para aumentar o poder preditivo?","n_estimators max_features e min_sample_leaf.","Hiperparâmetro","",""
+"","Para aumentar o poder preditivo são utilizados quais hiperparâmetros?","n_estimators max_features e min_sample_leaf.","Hiperparâmetro","",""
+"","O aumento do poder preditivo se dá por quais hiperparâmetros?","n_estimators max_features e min_sample_leaf.","Hiperparâmetro","",""
+"","Cite os principais hiperparâmetros que aumentam o poder preditivo.","n_estimators max_features e min_sample_leaf.","Hiperparâmetro","",""
+"","Para o aumento do poder preditivo é feito uso de quais hiperparâmetros?","n_estimators max_features e min_sample_leaf.","Hiperparâmetro","",""
+"","O que é o n_estimators?","Faz a indicação do número de árvores construídas pelo algoritmo antes de tomar uma votação ou fazer uma média de predições.","Hiperparâmetro","",""
+"","O que é o hiperparâmetro n_estimators?","Faz a indicação do número de árvores construídas pelo algoritmo antes de tomar uma votação ou fazer uma média de predições.","Hiperparâmetro","",""
+"","Para que serve o n_estimators?","Faz a indicação do número de árvores construídas pelo algoritmo antes de tomar uma votação ou fazer uma média de predições.","Hiperparâmetro","",""
+"","O n_estimators tem qual uso?","Faz a indicação do número de árvores construídas pelo algoritmo antes de tomar uma votação ou fazer uma média de predições.","Hiperparâmetro","",""
+"","Qual o objetivo do n_estimators?","Faz a indicação do número de árvores construídas pelo algoritmo antes de tomar uma votação ou fazer uma média de predições.","Hiperparâmetro","",""
+"","O que é o max_features?","Faz a indicação do número máximo de características a serem utilizadas pelo Floresta aleatória na construção de uma dada árvore.","Hiperparâmetro","",""
+"","O que é o hiperparâmetro max_features?","Faz a indicação do número máximo de características a serem utilizadas pelo Floresta aleatória na construção de uma dada árvore.","Hiperparâmetro","",""
+"","Para que serve o max_features?","Faz a indicação do número máximo de características a serem utilizadas pelo Floresta aleatória na construção de uma dada árvore.","Hiperparâmetro","",""
+"","O max_features tem qual uso?","Faz a indicação do número máximo de características a serem utilizadas pelo Floresta aleatória na construção de uma dada árvore.","Hiperparâmetro","",""
+"","Qual o objetivo do max_features?","Faz a indicação do número máximo de características a serem utilizadas pelo Floresta aleatória na construção de uma dada árvore.","Hiperparâmetro","",""
+"","O que é o min_sample_leaf?","Faz a indicação do número mínimo de folhas que devem existir em uma dada árvore.","Hiperparâmetro","",""
+"","O que é o hiperparâmetro min_sample_leaf?","Faz a indicação do número mínimo de folhas que devem existir em uma dada árvore.","Hiperparâmetro","",""
+"","Para que serve o min_sample_leaf?","Faz a indicação do número mínimo de folhas que devem existir em uma dada árvore.","Hiperparâmetro","",""
+"","O min_sample_leaf tem qual uso?","Faz a indicação do número mínimo de folhas que devem existir em uma dada árvore.","Hiperparâmetro","",""
+"","Qual o objetivo do min_sample_leaf?","Faz a indicação do número mínimo de folhas que devem existir em uma dada árvore.","Hiperparâmetro","",""
+"","Quais as desvantagens do algoritmo?","Uma grande quantidade de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. O algoritmo é rápido para treinar mas muito lento para fazer predições depois de treinado.","definicao","",""
+"","Quais desvantagens o algoritmo traz?","Uma grande quantidade de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. O algoritmo é rápido para treinar mas muito lento para fazer predições depois de treinado.","definicao","",""
+"","Qual o revés de se utilizar o algoritmo?","Uma grande quantidade de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. O algoritmo é rápido para treinar mas muito lento para fazer predições depois de treinado.","definicao","",""
+"","O que diverge das vantagens no algoritmo?","Uma grande quantidade de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. O algoritmo é rápido para treinar mas muito lento para fazer predições depois de treinado.","definicao","",""
+"","Cite desvantagens do algoritmo.","Uma grande quantidade de árvores pode tornar o algoritmo lento e ineficiente para predições em tempo real. O algoritmo é rápido para treinar mas muito lento para fazer predições depois de treinado.","definicao","",""
+"","Quais as aplicações do algoritmo?","Setor bancário mercado financeiro medicina e comércio eletrônico.","aplicacao","",""
+"","Qual uso real do algoritmo?","Setor bancário mercado financeiro medicina e comércio eletrônico.","aplicacao","",""
+"","O algoritmo pode ser utilizado em quais aplicações?","Setor bancário mercado financeiro medicina e comércio eletrônico.","aplicacao","",""
+"","Quais áreas o algoritmo é utilizado?","Setor bancário mercado financeiro medicina e comércio eletrônico.","aplicacao","",""
+"","Em quais áreas pode-se utilizar o algoritmo?","Setor bancário mercado financeiro medicina e comércio eletrônico.","aplicacao","",""
+"","Qual a diferença para uma árvore de decisão?","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos.","definicao","",""
+"","No que diverge com uma árvore de decisão?","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos.","definicao","",""
+"","Em relação a uma árvore de decisão, quais as diferenças?","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos.","definicao","",""
+"","a árvore de decisão tem quais diferenças em relação ao algoritmo?","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos.","definicao","",""
+"","Cite as diferenças com uma árvore de decisão.","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos.","definicao","",""
+"","Quais os principais hiperparâmetros para aumentar a velocidade do modelo?","n_jobs random_state e oob_score.","Hiperparâmetro","",""
+"","Para aumentar velocidade do modelo são utilizados quais hiperparâmetros?","n_jobs random_state e oob_score.","Hiperparâmetro","",""
+"","O aumento da velocidade do modelo se dá por quais hiperparâmetros?","n_jobs random_state e oob_score.","Hiperparâmetro","",""
+"","Cite os principais hiperparâmetros que aumentam a velocidade do modelo.","n_jobs random_state e oob_score.","Hiperparâmetro","",""
+"","Para o aumento da velocidade do modelo é feito uso de quais hiperparâmetros?","n_jobs random_state e oob_score.","Hiperparâmetro","",""
+"","O que é o n_jobs?","Informa quantos processadores o algoritmo pode utilizar.","Hiperparâmetro","",""
+"","O que é o hiperparâmetro n_jobs?","Informa quantos processadores o algoritmo pode utilizar.","Hiperparâmetro","",""
+"","Para que serve o n_jobs?","Informa quantos processadores o algoritmo pode utilizar.","Hiperparâmetro","",""
+"","O n_jobs tem qual uso?","Informa quantos processadores o algoritmo pode utilizar.","Hiperparâmetro","",""
+"","Qual o objetivo do n_jobs?","Informa quantos processadores o algoritmo pode utilizar.","Hiperparâmetro","",""
+"","O que é o random_state?","Torna o resultado do modelo replicável.","Hiperparâmetro","",""
+"","O que é o hiperparâmetro random_state?","Torna o resultado do modelo replicável.","Hiperparâmetro","",""
+"","Para que serve o random_state?","Torna o resultado do modelo replicável.","Hiperparâmetro","",""
+"","O random_state tem qual uso?","Torna o resultado do modelo replicável.","Hiperparâmetro","",""
+"","Qual o objetivo do random_state?","Torna o resultado do modelo replicável.","Hiperparâmetro","",""
+"","O que é o oob_score?","É um método de validação cruzada para floresta aleatória. Neste tipo deamostragem (sampling) cerca de um terço dos dados não é utilizado no treinamento e pode ser utilizado para avaliar a performance. ","Hiperparâmetro","",""
+"","O que é o hiperparâmetro oob_score?","É um método de validação cruzada para floresta aleatória. Neste tipo deamostragem (sampling) cerca de um terço dos dados não é utilizado no treinamento e pode ser utilizado para avaliar a performance. ","Hiperparâmetro","",""
+"","Para que serve o oob_score?","É um método de validação cruzada para floresta aleatória. Neste tipo deamostragem (sampling) cerca de um terço dos dados não é utilizado no treinamento e pode ser utilizado para avaliar a performance. ","Hiperparâmetro","",""
+"","O oob_score tem qual uso?","É um método de validação cruzada para floresta aleatória. Neste tipo deamostragem (sampling) cerca de um terço dos dados não é utilizado no treinamento e pode ser utilizado para avaliar a performance. ","Hiperparâmetro","",""
+"","Qual o objetivo do oob_score?","É um método de validação cruzada para floresta aleatória. Neste tipo deamostragem (sampling) cerca de um terço dos dados não é utilizado no treinamento e pode ser utilizado para avaliar a performance. ","Hiperparâmetro","",""
+"","Em qual etapa do processo de modelo é recomendado utilizar o algoritmo?","No começo para se ter noção da performance.","aplicacao","",""
+"","O algoritmo tem como recomendação ser utilizado em qual etapa do processo?","No começo para se ter noção da performance.","aplicacao","",""
+"","Qual a melhor etapa no processo para se utilizar o algoritmo?","No começo para se ter noção da performance.","aplicacao","",""
+"","Em que etapa se utiliza o algoritmo no processo de modelo?","No começo para se ter noção da performance.","aplicacao","",""
+"","Qual etapa se dá o uso do algoritmo no processo de modelo?","No começo para se ter noção da performance.","aplicacao","",""
+"","Por que o algoritmo utiliza aleatoriedade extra quando está criando árvores?","Para criar maior diversidade, o que pode levar a geração de modelos melhores.","definicao","",""
+"","a aleatoriedade extra se dá por qual razão?","Para criar maior diversidade, o que pode levar a geração de modelos melhores.","definicao","",""
+"","O algoritmo utiliza aleatoriedade extra durante a criação. Por quê?","Para criar maior diversidade, o que pode levar a geração de modelos melhores.","definicao","",""
+"","Durante a criação de árvores é utilizado aleatoriedade extra. Por qual razão?","Para criar maior diversidade, o que pode levar a geração de modelos melhores.","definicao","",""
+"","Cite o motivo de o algoritmo utilizar aleatoriedade extra durante a criação de árvores.","Para criar maior diversidade, o que pode levar a geração de modelos melhores.","definicao","",""
+"","Qual objetivo do bagging?","O bagging tem como objetivo aumentar o resultado geral através de combinações dos modelos.","definicao","",""
+"","O bagging tem qual objetivo?","O bagging tem como objetivo aumentar o resultado geral através de combinações dos modelos.","definicao","",""
+"","Qual o principal objetivo do bagging?","O bagging tem como objetivo aumentar o resultado geral através de combinações dos modelos.","definicao","",""
+"","Cite o objetivo do bagging.","O bagging tem como objetivo aumentar o resultado geral através de combinações dos modelos.","definicao","",""
+"","O bagging apresenta qual objetivo?","O bagging tem como objetivo aumentar o resultado geral através de combinações dos modelos.","definicao","",""
+"","O algoritmo é fácil de utilizar?","É muito fácil de se utilizar e apresenta grande flexibilidade.","definicao","",""
+"","É fácil de se usar o algoritmo?","É muito fácil de se utilizar e apresenta grande flexibilidade.","definicao","",""
+"","O uso do algoritmo se dá de maneira fácil?","É muito fácil de se utilizar e apresenta grande flexibilidade.","definicao","",""
+"","a utilização do algoritmo é fácil?","É muito fácil de se utilizar e apresenta grande flexibilidade.","definicao","",""
+"","O quão fácil é fazer o uso do algoritmo?","É muito fácil de se utilizar e apresenta grande flexibilidade.","definicao","",""
+"","","","","",""
+"","Por que o random forest é poderoso do que uma árvore de decisão comum?","O random forest gera várias árvores de decisão, cada uma com uma particularidade e combina o resultado da classificação de todos eles. 
+Fazendo com que o random forest seja um algoritmo mais poderoso que um algoritmo de Decision Tree.","conceito","Andressa e Marina",""
+"","Por qual motivo o algoritmo Floresta aleatória é mais potente que uma árvore de decisão comum?","O random forest gera várias árvores de decisão, cada uma com uma particularidade e combina o resultado da classificação de todos eles. 
+Fazendo com que o random forest seja um algoritmo mais poderoso que um algoritmo de Decision Tree.","conceito","",""
+"","Por que o random forest é poderoso do que uma Decision Tree?","O random forest gera várias árvores de decisão, cada uma com uma particularidade e combina o resultado da classificação de todos eles. 
+Fazendo com que o random forest seja um algoritmo mais poderoso que um algoritmo de Decision Tree.","conceito","",""
+"","Por que o random forest é mais recomendado do que uma Decision Tree?","O random forest gera várias árvores de decisão, cada uma com uma particularidade e combina o resultado da classificação de todos eles. 
+Fazendo com que o random forest seja um algoritmo mais poderoso que um algoritmo de Decision Tree.","conceito","",""
+"","Quem é mais poderoso o random forest ou uma Decision Tree?","O random forest gera várias árvores de decisão, cada uma com uma particularidade e combina o resultado da classificação de todos eles. 
+Fazendo com que o random forest seja um algoritmo mais poderoso que um algoritmo de Decision Tree.","conceito","",""
+"","Qual o paradigma do random forest?","O Paradigma utilizado no algoritmo random forest é a aprendizagem supervisionada.","paradigma","",""
+"","Quê paradigma é utilizado na implementação do Random Tree","O Paradigma utilizado no algoritmo random forest é a aprendizagem supervisionada.","paradigma","",""
+"","Dos paradigmas existente para aprendizagem de máquina qual deles é aplicado no Random Tree?","O Paradigma utilizado no algoritmo random forest é a aprendizagem supervisionada.","paradigma","",""
+"","Dos paradigmas existente para aprendizagem de máquina qual deles é aplicado na Floresta aleatória?","O Paradigma utilizado no algoritmo random forest é a aprendizagem supervisionada.","paradigma","",""
+"","Qual paradigma é usado na Floresta aleatória?","O Paradigma utilizado no algoritmo random forest é a aprendizagem supervisionada.","paradigma","",""
+"","Como o random forest gera as árvores de sua floresta?","O random forest quando está criando as árvores ao invés de procurar pela melhor característica ao fazer a partição de nodos, ele busca a
+ melhor característica em um subconjunto aleatório das características.
+Este processo cria uma grande diversidade, o que geralmente leva a geração de modelos melhores.","funcionamento","",""
+"","Como são criadas as árvores no random forest?","O random forest quando está criando as árvores ao invés de procurar pela melhor característica ao fazer a partição de nodos, ele busca a
+ melhor característica em um subconjunto aleatório das características.
+Este processo cria uma grande diversidade, o que geralmente leva a geração de modelos melhores.","funcionamento","",""
+"","No algoritmo Floresta aleatória, como são criadas as árvores?","O random forest quando está criando as árvores ao invés de procurar pela melhor característica ao fazer a partição de nodos, ele busca a
+ melhor característica em um subconjunto aleatório das características.
+Este processo cria uma grande diversidade, o que geralmente leva a geração de modelos melhores.","funcionamento","",""
+"","Como é o processo de criação de árvores no random forest?","O random forest quando está criando as árvores ao invés de procurar pela melhor característica ao fazer a partição de nodos, ele busca a
+ melhor característica em um subconjunto aleatório das características.
+Este processo cria uma grande diversidade, o que geralmente leva a geração de modelos melhores.","funcionamento","",""
+"","No algoritmo Florestas aleatória como é o processo de criação das árvores da floresta?","O random forest quando está criando as árvores ao invés de procurar pela melhor característica ao fazer a partição de nodos, ele busca a
+ melhor característica em um subconjunto aleatório das características.
+Este processo cria uma grande diversidade, o que geralmente leva a geração de modelos melhores.","funcionamento","",""
+"","Como funciona o paradigma utilizado pelo random forest?","O Paradigma utilizado pelo random forest é o aprendizado supervisionado. O termo supervisionado vem da simulação da presença de uma 
+""supervisor externo"", que conhece a saída (rótulo) desejado para cada exemplo. É apresentado um conjunto de dados de exemplo para 
+treinamento rotulado. Então é construída uma função que classifica os objetos do conjunto de três em uma das classes já conhecidas. 
+a performance é calculada de acordo com o número de objetos do conjunto de teste classificados corretamente. 
+Para problemas altamente desbalanceados, no entanto, pode não fornecer informação adequada. ","paradigma","",""
+"","Como funciona a aprendizagem supervisionada utilizada pelo random forest?","O Paradigma utilizado pelo random forest é o aprendizado supervisionado. O termo supervisionado vem da simulação da presença de uma 
+""supervisor externo"", que conhece a saída (rótulo) desejado para cada exemplo. É apresentado um conjunto de dados de exemplo para 
+treinamento rotulado. Então é construída uma função que classifica os objetos do conjunto de três em uma das classes já conhecidas. 
+a performance é calculada de acordo com o número de objetos do conjunto de teste classificados corretamente. 
+Para problemas altamente desbalanceados, no entanto, pode não fornecer informação adequada. ","paradigma","",""
+"","Como funciona a aprendizagem supervisionada?","O Paradigma utilizado pelo random forest é o aprendizado supervisionado. O termo supervisionado vem da simulação da presença de uma 
+""supervisor externo"", que conhece a saída (rótulo) desejado para cada exemplo. É apresentado um conjunto de dados de exemplo para 
+treinamento rotulado. Então é construída uma função que classifica os objetos do conjunto de três em uma das classes já conhecidas. 
+a performance é calculada de acordo com o número de objetos do conjunto de teste classificados corretamente. 
+Para problemas altamente desbalanceados, no entanto, pode não fornecer informação adequada. ","paradigma","",""
+"","Como é o funcionamento do paradigma utilizado pelo algoritmo Floresta aleatória?","O Paradigma utilizado pelo random forest é o aprendizado supervisionado. O termo supervisionado vem da simulação da presença de uma 
+""supervisor externo"", que conhece a saída (rótulo) desejado para cada exemplo. É apresentado um conjunto de dados de exemplo para 
+treinamento rotulado. Então é construída uma função que classifica os objetos do conjunto de três em uma das classes já conhecidas. 
+a performance é calculada de acordo com o número de objetos do conjunto de teste classificados corretamente. 
+Para problemas altamente desbalanceados, no entanto, pode não fornecer informação adequada. ","paradigma","",""
+"","Qual o paradigma do random forest?","O Paradigma utilizado pelo random forest é o aprendizado supervisionado. O termo supervisionado vem da simulação da presença de uma 
+""supervisor externo"", que conhece a saída (rótulo) desejado para cada exemplo. É apresentado um conjunto de dados de exemplo para 
+treinamento rotulado. Então é construída uma função que classifica os objetos do conjunto de três em uma das classes já conhecidas. 
+a performance é calculada de acordo com o número de objetos do conjunto de teste classificados corretamente. 
+Para problemas altamente desbalanceados, no entanto, pode não fornecer informação adequada. ","paradigma","",""
+"","Qual a diferença entre Decision Tree e random forest? ","Na árvore de decisão as características e rótulos são inseridos na árvore e serão geradas nodos e algumas regras, para gerar essas 
+regras de nodos, normalmente são utilizados cálculos de ganho de informação e gini index. 
+Já o random forest, embora seja uma coleção de árvores de decisão, faz isso de modo aleatório","conceito","",""
+"","O que difere o random forest de uma Decision Tree?","Na árvore de decisão as características e rótulos são inseridos na árvore e serão geradas nodos e algumas regras, para gerar essas 
+regras de nodos, normalmente são utilizados cálculos de ganho de informação e gini index. 
+Já o random forest, embora seja uma coleção de árvores de decisão, faz isso de modo aleatório","conceito","",""
+"","Quais as diferenças entre os algoritmos Decision Tree e random forest?","Na árvore de decisão as características e rótulos são inseridos na árvore e serão geradas nodos e algumas regras, para gerar essas 
+regras de nodos, normalmente são utilizados cálculos de ganho de informação e gini index. 
+Já o random forest, embora seja uma coleção de árvores de decisão, faz isso de modo aleatório","conceito","",""
+"","Qual a diferença entre o random forest e uma árvore de decisão comum?","Na árvore de decisão as características e rótulos são inseridos na árvore e serão geradas nodos e algumas regras, para gerar essas 
+regras de nodos, normalmente são utilizados cálculos de ganho de informação e gini index. 
+Já o random forest, embora seja uma coleção de árvores de decisão, faz isso de modo aleatório","conceito","",""
+"","Quais as características do Random Tree que o diferem de uma árvore de decisão comum?","Na árvore de decisão as características e rótulos são inseridos na árvore e serão geradas nodos e algumas regras, para gerar essas 
+regras de nodos, normalmente são utilizados cálculos de ganho de informação e gini index. 
+Já o random forest, embora seja uma coleção de árvores de decisão, faz isso de modo aleatório","conceito","",""
+"","","","","",""
+"","O que é o algoritmo random forest?","O random forest é um algoritmo de aprendizagem de de máquina, que utiliza o paradigma de aprendizagem Supervisionada. 
+Também pode ser visto como uma forma de preditor do vizinho mais próximo. Ele faz uma combinação de árvores de decisão as quais são 
+geradas para serem utilizadas na classificação de novas Classes. O random forest apresenta excelentes características de precisão, 
+generalização para outras amostras que não aquelas em que o classificador foi treinado e capacidade de bom desempenho em pequenas amostras.
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas ","conceito","",""
+"","Definição de random forest","O random forest é um algoritmo de aprendizagem de de máquina, que utiliza o paradigma de aprendizagem Supervisionada. 
+Também pode ser visto como uma forma de preditor do vizinho mais próximo. Ele faz uma combinação de árvores de decisão as quais são 
+geradas para serem utilizadas na classificação de novas Classes. O random forest apresenta excelentes características de precisão, 
+generalização para outras amostras que não aquelas em que o classificador foi treinado e capacidade de bom desempenho em pequenas amostras.
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas ","conceito","",""
+"","random forest como funciona?","O random forest é um algoritmo de aprendizagem de de máquina, que utiliza o paradigma de aprendizagem Supervisionada. 
+Também pode ser visto como uma forma de preditor do vizinho mais próximo. Ele faz uma combinação de árvores de decisão as quais são 
+geradas para serem utilizadas na classificação de novas Classes. O random forest apresenta excelentes características de precisão, 
+generalização para outras amostras que não aquelas em que o classificador foi treinado e capacidade de bom desempenho em pequenas amostras.
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas ","conceito","",""
+"","Como funciona o algoritmo random forest?","O random forest é um algoritmo de aprendizagem de de máquina, que utiliza o paradigma de aprendizagem Supervisionada. 
+Também pode ser visto como uma forma de preditor do vizinho mais próximo. Ele faz uma combinação de árvores de decisão as quais são 
+geradas para serem utilizadas na classificação de novas Classes. O random forest apresenta excelentes características de precisão, 
+generalização para outras amostras que não aquelas em que o classificador foi treinado e capacidade de bom desempenho em pequenas amostras.
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas ","conceito","",""
+"","Como é a implementação do random forest?","O random forest é um algoritmo de aprendizagem de de máquina, que utiliza o paradigma de aprendizagem Supervisionada. 
+Também pode ser visto como uma forma de preditor do vizinho mais próximo. Ele faz uma combinação de árvores de decisão as quais são 
+geradas para serem utilizadas na classificação de novas Classes. O random forest apresenta excelentes características de precisão, 
+generalização para outras amostras que não aquelas em que o classificador foi treinado e capacidade de bom desempenho em pequenas amostras.
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas ","conceito","",""
+"","Quais parâmetros podem ser alterados para que o random forest tenha uma boa performance?","- max_features: Determina o número máximo de características utilizadas pelo Random-Forest na montagem de uma árvore individual. 
+
+- n_estimators: Determina o número de árvores que se deseja construir em uma floresta. Quanto maior o número de árvores, 
+melhor o desempenho, pois tornam as previsões mais estáveis, mas torna o seu código mais lento;
+
+- min_sample_leaf: O número mínimo de amostras necessárias para estar em um nó folha. 
+Um número mínimo de amostras menor torna o modelo mais propenso a capturar ruído nos dados de treinamento; 
+
+- random_state: a semente usada pelo gerador de números aleatórios. 
+Um valor definido de random_state sempre produzirá os mesmos resultados, se for dado com os mesmos parâmetros e dados de treinamento.","parametro","",""
+"","Para ter uma boa performance quais parâmetros devem ser alterados?","- max_features: Determina o número máximo de características utilizadas pelo Random-Forest na montagem de uma árvore individual. 
+
+- n_estimators: Determina o número de árvores que se deseja construir em uma floresta. Quanto maior o número de árvores, 
+melhor o desempenho, pois tornam as previsões mais estáveis, mas torna o seu código mais lento;
+
+- min_sample_leaf: O número mínimo de amostras necessárias para estar em um nó folha. 
+Um número mínimo de amostras menor torna o modelo mais propenso a capturar ruído nos dados de treinamento; 
+
+- random_state: a semente usada pelo gerador de números aleatórios. 
+Um valor definido de random_state sempre produzirá os mesmos resultados, se for dado com os mesmos parâmetros e dados de treinamento.","parametro","",""
+"","Para melhorar a performance do algoritmo quais parâmetros devem ser modificados?","- max_features: Determina o número máximo de características utilizadas pelo Random-Forest na montagem de uma árvore individual. 
+
+- n_estimators: Determina o número de árvores que se deseja construir em uma floresta. Quanto maior o número de árvores, 
+melhor o desempenho, pois tornam as previsões mais estáveis, mas torna o seu código mais lento;
+
+- min_sample_leaf: O número mínimo de amostras necessárias para estar em um nó folha. 
+Um número mínimo de amostras menor torna o modelo mais propenso a capturar ruído nos dados de treinamento; 
+
+- random_state: a semente usada pelo gerador de números aleatórios. 
+Um valor definido de random_state sempre produzirá os mesmos resultados, se for dado com os mesmos parâmetros e dados de treinamento.","parametro","",""
+"","Quais parâmetros devem ser ajustados para que o algoritmo random forest tenha uma melhor performance?","- max_features: Determina o número máximo de características utilizadas pelo Random-Forest na montagem de uma árvore individual. 
+
+- n_estimators: Determina o número de árvores que se deseja construir em uma floresta. Quanto maior o número de árvores, 
+melhor o desempenho, pois tornam as previsões mais estáveis, mas torna o seu código mais lento;
+
+- min_sample_leaf: O número mínimo de amostras necessárias para estar em um nó folha. 
+Um número mínimo de amostras menor torna o modelo mais propenso a capturar ruído nos dados de treinamento; 
+
+- random_state: a semente usada pelo gerador de números aleatórios. 
+Um valor definido de random_state sempre produzirá os mesmos resultados, se for dado com os mesmos parâmetros e dados de treinamento.","parametro","",""
+"","Quais parâmetros impactam na performance do random forest?","- max_features: Determina o número máximo de características utilizadas pelo Random-Forest na montagem de uma árvore individual. 
+
+- n_estimators: Determina o número de árvores que se deseja construir em uma floresta. Quanto maior o número de árvores, 
+melhor o desempenho, pois tornam as previsões mais estáveis, mas torna o seu código mais lento;
+
+- min_sample_leaf: O número mínimo de amostras necessárias para estar em um nó folha. 
+Um número mínimo de amostras menor torna o modelo mais propenso a capturar ruído nos dados de treinamento; 
+
+- random_state: a semente usada pelo gerador de números aleatórios. 
+Um valor definido de random_state sempre produzirá os mesmos resultados, se for dado com os mesmos parâmetros e dados de treinamento.","parametro","",""
+"","Qual a vantagem do random forest com relação ao bagging?","O random forest nao faz a simplesmente a média das árvores, o processo de construção de uma floresta faz um ""bagging"" de variável do modelo,
+ o que ajuda a diminuir a correlação entre as árvores.","conceito","",""
+"","Por que é melhor utilizar o random forest ao bagging?","O random forest nao faz a simplesmente a média das árvores, o processo de construção de uma floresta faz um ""bagging"" de variável do modelo,
+ o que ajuda a diminuir a correlação entre as árvores.","conceito","",""
+"","Qual a diferença entre o random forest e o bagging?","O random forest nao faz a simplesmente a média das árvores, o processo de construção de uma floresta faz um ""bagging"" de variável do modelo,
+ o que ajuda a diminuir a correlação entre as árvores.","conceito","",""
+"","Qual a ligação entre o bagging e o random forest?","O random forest nao faz a simplesmente a média das árvores, o processo de construção de uma floresta faz um ""bagging"" de variável do modelo,
+ o que ajuda a diminuir a correlação entre as árvores.","conceito","",""
+"","O que distingue o random forest do bagging?","O random forest nao faz a simplesmente a média das árvores, o processo de construção de uma floresta faz um ""bagging"" de variável do modelo,
+ o que ajuda a diminuir a correlação entre as árvores.","conceito","",""
+"","Quantas fases o algoritmo random forest possui?","O random forest possui duas fases. a primeira é o período de formação de cada árvore, a segunda fase é o período de votação.","funcionamento ","",""
+"","Qual o número de fases do random forest?","O random forest possui duas fases. a primeira é o período de formação de cada árvore, a segunda fase é o período de votação.","funcionamento ","",""
+"","Quantas sao as fases do Floresta aleatória?","O random forest possui duas fases. a primeira é o período de formação de cada árvore, a segunda fase é o período de votação.","funcionamento ","",""
+"","Em quantas fases o random forest é separado?","O random forest possui duas fases. a primeira é o período de formação de cada árvore, a segunda fase é o período de votação.","funcionamento ","",""
+"","O random forest é dividido em quantas fases?","O random forest possui duas fases. a primeira é o período de formação de cada árvore, a segunda fase é o período de votação.","funcionamento ","",""
+"","Como são as fases do random forest?","a primeira fase consiste em treinar cada árvore de decisão. Os subconjuntos de dados são selecionados a partir do conjunto de dados de 
+treinamento e definidos usando a estratégia bagging aleatória. a segunda fase consiste em classificar os dados de teste pela votação maioritária.","funcionamento ","",""
+"","Quais as características das fases do random forest?","a primeira fase consiste em treinar cada árvore de decisão. Os subconjuntos de dados são selecionados a partir do conjunto de dados de 
+treinamento e definidos usando a estratégia bagging aleatória. a segunda fase consiste em classificar os dados de teste pela votação maioritária.","funcionamento ","",""
+"","Quais as responsabilidades de cada uma das fases do random forest?","a primeira fase consiste em treinar cada árvore de decisão. Os subconjuntos de dados são selecionados a partir do conjunto de dados de 
+treinamento e definidos usando a estratégia bagging aleatória. a segunda fase consiste em classificar os dados de teste pela votação maioritária.","funcionamento ","",""
+"","Qual a incumbencia de cada uma das fases do random forest?","a primeira fase consiste em treinar cada árvore de decisão. Os subconjuntos de dados são selecionados a partir do conjunto de dados de 
+treinamento e definidos usando a estratégia bagging aleatória. a segunda fase consiste em classificar os dados de teste pela votação maioritária.","funcionamento ","",""
+"","Qual o escopo de cada uma das fases do random forest?","a primeira fase consiste em treinar cada árvore de decisão. Os subconjuntos de dados são selecionados a partir do conjunto de dados de 
+treinamento e definidos usando a estratégia bagging aleatória. a segunda fase consiste em classificar os dados de teste pela votação maioritária.","funcionamento ","",""
+"","Quais as vantagens do random forest?"," Pode ser utilizado para tarefas de classificação e de regressão
+- algoritmos simples
+- Flexível
+- Possui a capacidade de lidar com um  grande número de variável de entrada.","funcionamento ","",""
+"","Quais os benefícios apresentados pelo random forest?"," Pode ser utilizado para tarefas de classificação e de regressão
+- algoritmos simples
+- Flexível
+- Possui a capacidade de lidar com um  grande número de variável de entrada.","funcionamento ","",""
+"","Por que usar o random forest?"," Pode ser utilizado para tarefas de classificação e de regressão
+- algoritmos simples
+- Flexível
+- Possui a capacidade de lidar com um  grande número de variável de entrada.","funcionamento ","",""
+"","O que há de bom no random forest?","Pode ser utilizado para tarefas de classificação e de regressão
+- algoritmos simples
+- Flexível
+- Possui a capacidade de lidar com um  grande número de variável de entrada.","funcionamento ","",""
+"","Quais os prós do algoritmo random forest?","Pode ser utilizado para tarefas de classificação e de regressão
+- algoritmos simples
+- Flexível
+- Possui a capacidade de lidar com um  grande número de variável de entrada.","funcionamento ","",""
+"","Quais as desvantagens do random forest?","Difíceis de serem interpretados","funcionamento ","",""
+"","Quais os contras do random forest?","Difíceis de serem interpretados","funcionamento ","",""
+"","O que há de ruim no random forest?","Difíceis de serem interpretados","funcionamento ","",""
+"","O que dificulta a utilização do random forest?","Difíceis de serem interpretados","funcionamento ","",""
+"","O que há de ruim no random forest?","Difíceis de serem interpretados","funcionamento ","",""
+"","Por que é uma vantagem o random forest poder ser utilizado tanto para tarefas de classificação quanto para regressão?","Pois os sistemas de aprendizagem de máquinas atuais são representados com tarefas de de classificação ou regressão","conceito","",""
+"","Qual o benefício de o random forest poder ser utilizado tanto para tarefas de classificação quanto 
+para tarefas de regressão?","Pois os sistemas de aprendizagem de máquinas atuais são representados com tarefas de de classificação ou regressão","conceito","",""
+"","Qual o beneficio de poder utilizar o random forest tanto para tarefas de classificação quanto para 
+tarefas de regressão?","Pois os sistemas de aprendizagem de máquinas atuais são representados com tarefas de de classificação ou regressão","conceito","",""
+"","O random forest pode ser utilizado para quais tipos de tarefas?","Pois os sistemas de aprendizagem de máquinas atuais são representados com tarefas de de classificação ou regressão","conceito","",""
+"","além de poder ser utilizado para tarefas de regressão para qual outra tarefas o random forest pode 
+ser utilizado?","Pois os sistemas de aprendizagem de máquinas atuais são representados com tarefas de de classificação ou regressão","conceito","",""
+"","O que é o método bagging?","O método ensemble bagging, utilizado para construção de cada árvore no random forest, consiste na criação de uma amostra retirada com 
+substituição de um conjunto de treinamento. a decisão escolhida em um nó durante a montagem da árvore passa a ser, então, a melhor escolha de 
+um subconjunto aleatório da amostra. a classificação elegida é aquela que for a mais votada dentre todos os subconjuntos. Utilizando-se a 
+aleatoriedade para uma floresta, comparado a uma única árvore, há um aumento na polarização enquanto ocorre uma redução da variância devido 
+ao cálculo da média.","funcionamento ","",""
+"","Qual método é utilizado para a construção das árvores da florestas do random forest?","O método ensemble bagging, utilizado para construção de cada árvore no random forest, consiste na criação de uma amostra retirada com 
+substituição de um conjunto de treinamento. a decisão escolhida em um nó durante a montagem da árvore passa a ser, então, a melhor escolha de 
+um subconjunto aleatório da amostra. a classificação elegida é aquela que for a mais votada dentre todos os subconjuntos. Utilizando-se a 
+aleatoriedade para uma floresta, comparado a uma única árvore, há um aumento na polarização enquanto ocorre uma redução da variância devido 
+ao cálculo da média.","funcionamento ","",""
+"","Como funciona o método que cria as árvores da floresta do random forest?","O método ensemble bagging, utilizado para construção de cada árvore no random forest, consiste na criação de uma amostra retirada com 
+substituição de um conjunto de treinamento. a decisão escolhida em um nó durante a montagem da árvore passa a ser, então, a melhor escolha de 
+um subconjunto aleatório da amostra. a classificação elegida é aquela que for a mais votada dentre todos os subconjuntos. Utilizando-se a 
+aleatoriedade para uma floresta, comparado a uma única árvore, há um aumento na polarização enquanto ocorre uma redução da variância devido 
+ao cálculo da média.","funcionamento ","",""
+"","Como funciona o método bagging?","O método ensemble bagging, utilizado para construção de cada árvore no random forest, consiste na criação de uma amostra retirada com 
+substituição de um conjunto de treinamento. a decisão escolhida em um nó durante a montagem da árvore passa a ser, então, a melhor escolha de 
+um subconjunto aleatório da amostra. a classificação elegida é aquela que for a mais votada dentre todos os subconjuntos. Utilizando-se a 
+aleatoriedade para uma floresta, comparado a uma única árvore, há um aumento na polarização enquanto ocorre uma redução da variância devido 
+ao cálculo da média.","funcionamento ","",""
+"","Como o método bagging deve gerar as árvores da floresta?","O método ensemble bagging, utilizado para construção de cada árvore no random forest, consiste na criação de uma amostra retirada com 
+substituição de um conjunto de treinamento. a decisão escolhida em um nó durante a montagem da árvore passa a ser, então, a melhor escolha de 
+um subconjunto aleatório da amostra. a classificação elegida é aquela que for a mais votada dentre todos os subconjuntos. Utilizando-se a 
+aleatoriedade para uma floresta, comparado a uma única árvore, há um aumento na polarização enquanto ocorre uma redução da variância devido 
+ao cálculo da média.","funcionamento ","",""
+"","Como é feita a predição no random forest?","O random forest integra um conjunto de métodos de aprendizado de máquina que envolve da construção de muitos preditores
+(classificadores ou regressores) e cuja predição consiste na agregação das predições de todos os preditores do conjunto.","conceito","",""
+"","De que forma o random forest efetua a predição?","O random forest integra um conjunto de métodos de aprendizado de máquina que envolve da construção de muitos preditores
+(classificadores ou regressores) e cuja predição consiste na agregação das predições de todos os preditores do conjunto.","conceito","",""
+"","Como é implementada a predição no random forest?","O random forest integra um conjunto de métodos de aprendizado de máquina que envolve da construção de muitos preditores
+(classificadores ou regressores) e cuja predição consiste na agregação das predições de todos os preditores do conjunto.","conceito","",""
+"","Quais as características da predição no random forest?","O random forest integra um conjunto de métodos de aprendizado de máquina que envolve da construção de muitos preditores
+(classificadores ou regressores) e cuja predição consiste na agregação das predições de todos os preditores do conjunto.","conceito","",""
+"","O Método de aprendizado de máquina utilizado usa qual tecnica para efetuar a predição? ","O random forest integra um conjunto de métodos de aprendizado de máquina que envolve da construção de muitos preditores
+(classificadores ou regressores) e cuja predição consiste na agregação das predições de todos os preditores do conjunto.","conceito","",""
+"","Qual a base utilizada por breiman para criação do random forest?","Para a criação desse método que foi proposto por breiman o mesmo utilizou-se de seus trabalhos passados sobre as árvores CaRT 
+(Classification and Regression Tree) e bootstrap and aggregating (bagging) além dos trabalhos que utilizaram árvores aleatórias para a solução de 
+problemas de classificação. O random forest é uma combinação de árvores de decisão as quais são geradas para serem utilizadas na classificação 
+de novas Classes.","conceito","",""
+"","Qual a origem do random forest?","Para a criação desse método que foi proposto por breiman o mesmo utilizou-se de seus trabalhos passados sobre as árvores CaRT 
+(Classification and Regression Tree) e bootstrap and aggregating (bagging) além dos trabalhos que utilizaram árvores aleatórias para a solução de 
+problemas de classificação. O random forest é uma combinação de árvores de decisão as quais são geradas para serem utilizadas na classificação 
+de novas Classes.","conceito","",""
+"","Como foi implementado o random forest?","Para a criação desse método que foi proposto por breiman o mesmo utilizou-se de seus trabalhos passados sobre as árvores CaRT 
+(Classification and Regression Tree) e bootstrap and aggregating (bagging) além dos trabalhos que utilizaram árvores aleatórias para a solução de 
+problemas de classificação. O random forest é uma combinação de árvores de decisão as quais são geradas para serem utilizadas na classificação 
+de novas Classes.","conceito","",""
+"","Quais trabalhos foram utilizados para implementar o random forest?","Para a criação desse método que foi proposto por breiman o mesmo utilizou-se de seus trabalhos passados sobre as árvores CaRT 
+(Classification and Regression Tree) e bootstrap and aggregating (bagging) além dos trabalhos que utilizaram árvores aleatórias para a solução de 
+problemas de classificação. O random forest é uma combinação de árvores de decisão as quais são geradas para serem utilizadas na classificação 
+de novas Classes.","conceito","",""
+"","Em que foi baseado o random forest?","Para a criação desse método que foi proposto por breiman o mesmo utilizou-se de seus trabalhos passados sobre as árvores CaRT 
+(Classification and Regression Tree) e bootstrap and aggregating (bagging) além dos trabalhos que utilizaram árvores aleatórias para a solução de 
+problemas de classificação. O random forest é uma combinação de árvores de decisão as quais são geradas para serem utilizadas na classificação 
+de novas Classes.","conceito","",""
+"","Qual a precisão obtida ao utilizar o random forest?","O random forest apresenta excelentes características de precisão, generalização para outras amostras que não aquelas em que o classificador 
+foi treinado e capacidade de bom desempenho em pequenas amostras. 
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas","funcionamento","",""
+"","Como é a convergência de random forest?","O random forest apresenta excelentes características de precisão, generalização para outras amostras que não aquelas em que o classificador 
+foi treinado e capacidade de bom desempenho em pequenas amostras. 
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas","funcionamento","",""
+"","Como é a precisão do random forest e como é obtida?","O random forest apresenta excelentes características de precisão, generalização para outras amostras que não aquelas em que o classificador 
+foi treinado e capacidade de bom desempenho em pequenas amostras. 
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas","funcionamento","",""
+"","O random forest possui excelente precisão, como ele consegue isso?","O random forest apresenta excelentes características de precisão, generalização para outras amostras que não aquelas em que o classificador 
+foi treinado e capacidade de bom desempenho em pequenas amostras. 
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas","funcionamento","",""
+"","Qual o impacto das características das árvores na generalização de erro?","O random forest apresenta excelentes características de precisão, generalização para outras amostras que não aquelas em que o classificador 
+foi treinado e capacidade de bom desempenho em pequenas amostras. 
+O erro de generalização para as florestas converge a um limite quando o número de árvores na floresta se torna grande. 
+O erro de generalização de uma floresta depende da característica das árvores individuais na floresta e a correlação entre elas","funcionamento","",""
+"","Quais as características do random forest?","- Possui uma boa precisão
+- Funciona bem com grande grupos de dados e principalmente com muitas variável de entrada;
+- Tem como saída a importância das variável","conceito","",""
+"","Quais os principais atributos do random forest?","- Possui uma boa precisão
+- Funciona bem com grande grupos de dados e principalmente com muitas variável de entrada;
+- Tem como saída a importância das variável","conceito","",""
+"","Quais as características de tornam o random forest apropriado para classificação de uma grande
+ quantia de dados?","- Possui uma boa precisão
+- Funciona bem com grande grupos de dados e principalmente com muitas variável de entrada;
+- Tem como saída a importância das variável","conceito","",""
+"","Quais as características que melhor definem o random forest?","- Possui uma boa precisão
+- Funciona bem com grande grupos de dados e principalmente com muitas variável de entrada;
+- Tem como saída a importância das variável","conceito","",""
+"","Quais as principais aptidões do random forest?","- Possui uma boa precisão
+- Funciona bem com grande grupos de dados e principalmente com muitas variável de entrada;
+- Tem como saída a importância das variável","conceito","",""
+"","Por que é importante saber a importância das variável?","através da importancia das variável, é possivel mostrar para ""leigos"" se uma variável X é importante no problema a ser solucionado","conceito","",""
+"","Por que variável são importantes?","através da importancia das variável, é possivel mostrar para ""leigos"" se uma variável X é importante no problema a ser solucionado","conceito","",""
+"","Por que é relevante saber a importancia das variável utilizadas?","através da importancia das variável, é possivel mostrar para ""leigos"" se uma variável X é importante no problema a ser solucionado","conceito","",""
+"","Qual o ganho em saber a importancia da variável utilizada?","através da importancia das variável, é possivel mostrar para ""leigos"" se uma variável X é importante no problema a ser solucionado","conceito","",""
+"","Como saber se uma variável é relevante para o problema?","através da importancia das variável, é possivel mostrar para ""leigos"" se uma variável X é importante no problema a ser solucionado","conceito","",""
+"","Como é feito o treinamento?","Como esse sistema é treinado, para algum número de árvores T :
+
+1 - amostra N casos aleatoriamente com a substituição para criar um subconjunto dos dados (veja a camada superior da figura acima). 
+O subconjunto deve ser de cerca de 66% do conjunto total.
+
+2 - Em cada nó:
+2.1 - Para algum número m (veja abaixo) , m variável ​​preditoras são selecionadas aleatoriamente de todas as variável ​​preditoras.
+2.2 - a variável preditora que fornece a melhor divisão, de acordo com alguma função objetiva, é usada para fazer uma divisão binária nesse nó.
+2.3 - No próximo nó, escolha outras variável m aleatoriamente de todas as variável ​​preditoras e faça o mesmo.
+
+Dependendo do valor de m , existem três sistemas ligeiramente diferentes:
+- Seleção de divisores aleatórios: m = 1
+- Criador de breiman: m = número total de variável ​​preditoras
+- Floresta aleatória: m << número de variável ​​preditoras. brieman sugere três possíveis valores para m: ½√ m , √ m , e 2√ m","funcionamento","",""
+"","Como ocorre o treinamento das árvores?","Como esse sistema é treinado, para algum número de árvores T :
+
+1 - amostra N casos aleatoriamente com a substituição para criar um subconjunto dos dados (veja a camada superior da figura acima). 
+O subconjunto deve ser de cerca de 66% do conjunto total.
+
+2 - Em cada nó:
+2.1 - Para algum número m (veja abaixo) , m variável ​​preditoras são selecionadas aleatoriamente de todas as variável ​​preditoras.
+2.2 - a variável preditora que fornece a melhor divisão, de acordo com alguma função objetiva, é usada para fazer uma divisão binária nesse nó.
+2.3 - No próximo nó, escolha outras variável m aleatoriamente de todas as variável ​​preditoras e faça o mesmo.
+
+Dependendo do valor de m , existem três sistemas ligeiramente diferentes:
+- Seleção de divisores aleatórios: m = 1
+- Criador de breiman: m = número total de variável ​​preditoras
+- Floresta aleatória: m << número de variável ​​preditoras. brieman sugere três possíveis valores para m: ½√ m , √ m , e 2√ m","funcionamento","",""
+"","Como a árvores são treinadas?","Como esse sistema é treinado, para algum número de árvores T :
+
+1 - amostra N casos aleatoriamente com a substituição para criar um subconjunto dos dados (veja a camada superior da figura acima). 
+O subconjunto deve ser de cerca de 66% do conjunto total.
+
+2 - Em cada nó:
+2.1 - Para algum número m (veja abaixo) , m variável ​​preditoras são selecionadas aleatoriamente de todas as variável ​​preditoras.
+2.2 - a variável preditora que fornece a melhor divisão, de acordo com alguma função objetiva, é usada para fazer uma divisão binária nesse nó.
+2.3 - No próximo nó, escolha outras variável m aleatoriamente de todas as variável ​​preditoras e faça o mesmo.
+
+Dependendo do valor de m , existem três sistemas ligeiramente diferentes:
+- Seleção de divisores aleatórios: m = 1
+- Criador de breiman: m = número total de variável ​​preditoras
+- Floresta aleatória: m << número de variável ​​preditoras. brieman sugere três possíveis valores para m: ½√ m , √ m , e 2√ m","funcionamento","",""
+"","Como o treinamento das árvores deve ser implementado?","Como esse sistema é treinado, para algum número de árvores T :
+
+1 - amostra N casos aleatoriamente com a substituição para criar um subconjunto dos dados (veja a camada superior da figura acima). 
+O subconjunto deve ser de cerca de 66% do conjunto total.
+
+2 - Em cada nó:
+2.1 - Para algum número m (veja abaixo) , m variável ​​preditoras são selecionadas aleatoriamente de todas as variável ​​preditoras.
+2.2 - a variável preditora que fornece a melhor divisão, de acordo com alguma função objetiva, é usada para fazer uma divisão binária nesse nó.
+2.3 - No próximo nó, escolha outras variável m aleatoriamente de todas as variável ​​preditoras e faça o mesmo.
+
+Dependendo do valor de m , existem três sistemas ligeiramente diferentes:
+- Seleção de divisores aleatórios: m = 1
+- Criador de breiman: m = número total de variável ​​preditoras
+- Floresta aleatória: m << número de variável ​​preditoras. brieman sugere três possíveis valores para m: ½√ m , √ m , e 2√ m","funcionamento","",""
+"","Como é o funcionamento do treinamento das árvores da floresta do random forest?","Como esse sistema é treinado, para algum número de árvores T :
+
+1 - amostra N casos aleatoriamente com a substituição para criar um subconjunto dos dados (veja a camada superior da figura acima). 
+O subconjunto deve ser de cerca de 66% do conjunto total.
+
+2 - Em cada nó:
+2.1 - Para algum número m (veja abaixo) , m variável ​​preditoras são selecionadas aleatoriamente de todas as variável ​​preditoras.
+2.2 - a variável preditora que fornece a melhor divisão, de acordo com alguma função objetiva, é usada para fazer uma divisão binária nesse nó.
+2.3 - No próximo nó, escolha outras variável m aleatoriamente de todas as variável ​​preditoras e faça o mesmo.
+
+Dependendo do valor de m , existem três sistemas ligeiramente diferentes:
+- Seleção de divisores aleatórios: m = 1
+- Criador de breiman: m = número total de variável ​​preditoras
+- Floresta aleatória: m << número de variável ​​preditoras. brieman sugere três possíveis valores para m: ½√ m , √ m , e 2√ m","funcionamento","",""
+"","","","","",""
+"","Quais são as aplicações do algoritmo random forest?","Em que o algoritmo random forest pode ser aplicado?","","",""
+"","","    Onde o algoritmo random forest pode ser aplicado?","","",""
+"","","    Qual a área de aplicação do algoritmo random forest?","","",""
+"","","    No quê se aplica o random forest?","","",""
+"","","","","",""
+"","O que é Floresta aleatória?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento","conceito","Rodrigo Mello",""
+"","O que é random forest?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento","conceito","",""
+"","Floresta aleatória. o que é?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento","conceito","",""
+"","random forest. o que é?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento","conceito","",""
+"","O que é Floresta aleatória em I.a?","O algoritmo Floresta aleatória é um método de aprendizado conjunto para classificação regressão e outras tarefas que operam construindo uma multiplicidade de árvores de decisão no momento do treinamento","conceito","",""
+"","Qual a Data criação da random forest?","Foi criado em 1995","historia","",""
+"","Qual a Data de criação da random forest?","Foi criado em 1996","historia","",""
+"","Qual a Data de criação da floresta aleatória?","Foi criado em 1997","historia","",""
+"","Em que data foi criada a random forest?","Foi criado em 1998","historia","",""
+"","Em que data foi criada a floresta aleatória?","Foi criado em 1999","historia","",""
+"","Quem criou o algoritmo floresta aleatória?"," Tin Kam Ho","historia","",""
+"","Quem criou o algoritmo random forest?"," Tin Kam Ho","historia","",""
+"","Quem foi o criador do algoritmo floresta aleatória?"," Tin Kam Ho","historia","",""
+"","Quem foi o criador do algoritmo random forest?"," Tin Kam Ho","historia","",""
+"","Quem criou o algoritmo floresta aleatória?"," Tin Kam Ho","historia","",""
+"","Quais aplicações o algoritmo floresta aleatória é utilizado?","setores bancário mercado financeiro medicina e comércio eletrônico","aplicacao","",""
+"","Quais aplicações o algoritmo random forest é utilizado?","setores bancário mercado financeiro medicina e comércio eletrônico","aplicacao","",""
+"","Quais aplicações usam o algoritmo floresta aleatória ?","setores bancário mercado financeiro medicina e comércio eletrônico","aplicacao","",""
+"","Quais aplicações usam algoritmo random forest ?","setores bancário mercado financeiro medicina e comércio eletrônico","aplicacao","",""
+"","Quais setores usam o algoritmo floresta aleatória?","setores bancário mercado financeiro medicina e comércio eletrônico","aplicacao","",""
+"","Qual a principal vantagem do algoritimo floresta aleatória?","Eficiência e simplicidade","vantagem","",""
+"","Qual a principal vantagem do algoritimo random forest?","Eficiência e simplicidade","vantagem","",""
+"","Qual a vantagem do algoritimo floresta aleatória?","Eficiência e simplicidade","vantagem","",""
+"","Qual a vantagem do algoritimo random forest?","Eficiência e simplicidade","vantagem","",""
+"","Qual a principal vantagem do algoritimo floresta aleatória?","Eficiência e simplicidade","vantagem","",""
+"","Qual a principal desvantagem do algoritimo floresta aleatória?","Uso de memória","desvantagem","",""
+"","Qual a principal desvantagem do algoritimo random forest?","Uso de memória","desvantagem","",""
+"","Qual a desvantagem do algoritimo floresta aleatória?","Uso de memória","desvantagem","",""
+"","Qual a desvantagem do algoritimo random forest?","Uso de memória","desvantagem","",""
+"","Qual desvantagem o algoritimo floresta aleatória tem?","Uso de memória","desvantagem","",""
+"","O algoritmo Floresta aleatória pode ser aplicado para tarefas de regressão?","Sim. O algoritmo Floresta aleatória funciona para tarefas de regressão","aplicacao","",""
+"","O algoritmo random forest pode ser aplicado para tarefas de regressão?","Sim. O algoritmo Floresta aleatória funciona para tarefas de regressão","aplicacao","",""
+"","a Floresta aleatória pode ser aplicado para tarefas de regressão?","Sim. O algoritmo Floresta aleatória funciona para tarefas de regressão","aplicacao","",""
+"","a random forest pode ser aplicado para tarefas de regressão?","Sim. O algoritmo Floresta aleatória funciona para tarefas de regressão","aplicacao","",""
+"","O algoritmo Floresta aleatória pode ser aplicado para regressão?","Sim. O algoritmo Floresta aleatória funciona para tarefas de regressão","aplicacao","",""
+"","Floresta aleatória é propenso a overfitting?"," sim. Especialmente em tarefas com muito ruído","overfitting","",""
+"","Floresta aleatória é propenso a sobreajuste?"," sim. Especialmente em tarefas com muito ruído","overfitting","",""
+"","random forest é propenso a overfitting?"," sim. Especialmente em tarefas com muito ruído","overfitting","",""
+"","random forest é propenso a sobreajuste?"," sim. Especialmente em tarefas com muito ruído","overfitting","",""
+"","Floresta aleatória é pode usar overfitting?"," sim. Especialmente em tarefas com muito ruído","overfitting","",""
+"","Como construir uma floresta aleatória?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","metodo","",""
+"","Como construir uma random forest?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","metodo","",""
+"","Como fazer uma floresta aleatória?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","metodo","",""
+"","Como fazer uma random forest?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","metodo","",""
+"","Como é feita uma floresta aleatória?","Uma floresta aleatória é construída por um simples voto de árvores de decisão usando o algoritmo bagging","metodo","",""
+"","O que é bagging?","bagging é uma palavra artificial formada a partir da combinação de palavras também conhecido como bootstrap aggregating. Este termo foi introduzido por Leo breiman em 1994","conceitoBagging","",""
+"","O que significa bagging?","bagging é uma palavra artificial formada a partir da combinação de palavras também conhecido como bootstrap aggregating. Este termo foi introduzido por Leo breiman em 1995","conceitoBagging","",""
+"","bagging?","bagging é uma palavra artificial formada a partir da combinação de palavras também conhecido como bootstrap aggregating. Este termo foi introduzido por Leo breiman em 1996","conceitoBagging","",""
+"","O que pode ser bagging?","bagging é uma palavra artificial formada a partir da combinação de palavras também conhecido como bootstrap aggregating. Este termo foi introduzido por Leo breiman em 1997","conceitoBagging","",""
+"","O que ser bagging?","bagging é uma palavra artificial formada a partir da combinação de palavras também conhecido como bootstrap aggregating. Este termo foi introduzido por Leo breiman em 1998","conceitoBagging","",""
+"","O que é bootstrap?","Em estatística o bootstrap é um método de geração de amostras em que o número de objetos escolhidos é o mesmo que o número inicial de objetos. Mas esses objetos são escolhidos com substituições","conceitoBootstrap","",""
+"","O que significa bootstrap?","Em estatística o bootstrap é um método de geração de amostras em que o número de objetos escolhidos é o mesmo que o número inicial de objetos. Mas esses objetos são escolhidos com substituições","conceitoBootstrap","",""
+"","O que pode ser bootstrap?","Em estatística o bootstrap é um método de geração de amostras em que o número de objetos escolhidos é o mesmo que o número inicial de objetos. Mas esses objetos são escolhidos com substituições","conceitoBootstrap","",""
+"","bootstrap?","Em estatística o bootstrap é um método de geração de amostras em que o número de objetos escolhidos é o mesmo que o número inicial de objetos. Mas esses objetos são escolhidos com substituições","conceitoBootstrap","",""
+"","O que ser bootstrap?","Em estatística o bootstrap é um método de geração de amostras em que o número de objetos escolhidos é o mesmo que o número inicial de objetos. Mas esses objetos são escolhidos com substituições","conceitoBootstrap","",""
+"","Qual importância do algoritimo random forest?","O algoritmo da Floresta aleatória mostrou-se extremamente eficaz capaz de resolver problemas práticos. Ele fornece um treinamento de alta qualidade com um número aparentemente grande de aleatoriedade introduzido no processo de construção do modelo","aplicacao","",""
+"","Qual importância do algoritimo floresta aleatória?","O algoritmo da Floresta aleatória mostrou-se extremamente eficaz capaz de resolver problemas práticos. Ele fornece um treinamento de alta qualidade com um número aparentemente grande de aleatoriedade introduzido no processo de construção do modelo","aplicacao","",""
+"","Qual importância da floresta aleatória?","O algoritmo da Floresta aleatória mostrou-se extremamente eficaz capaz de resolver problemas práticos. Ele fornece um treinamento de alta qualidade com um número aparentemente grande de aleatoriedade introduzido no processo de construção do modelo","aplicacao","",""
+"","Qual importância da random forest?","O algoritmo da Floresta aleatória mostrou-se extremamente eficaz capaz de resolver problemas práticos. Ele fornece um treinamento de alta qualidade com um número aparentemente grande de aleatoriedade introduzido no processo de construção do modelo","aplicacao","",""
+"","Qual a importância do algoritimo floresta aleatória?","O algoritmo da Floresta aleatória mostrou-se extremamente eficaz capaz de resolver problemas práticos. Ele fornece um treinamento de alta qualidade com um número aparentemente grande de aleatoriedade introduzido no processo de construção do modelo","aplicacao","",""
+"","Qual a vantagem sobre outros modelos de aprendizado de máquina?","A vantagem sobre outros modelos de aprendizado de máquina é a estimativa fora da amostra para a parte do conjunto que não está incluída na amostra de treinamento.","comparacao","",""
+"","Qual a vantagem em relação outros modelos de aprendizado de máquina?","A vantagem sobre outros modelos de aprendizado de máquina é a estimativa fora da amostra para a parte do conjunto que não está incluída na amostra de treinamento.","comparacao","",""
+"","Qual a vantagem quando comparado a outros modelos de aprendizado de máquina?","A vantagem sobre outros modelos de aprendizado de máquina é a estimativa fora da amostra para a parte do conjunto que não está incluída na amostra de treinamento.","comparacao","",""
+"","Qual a vantagem sobre outros modelos de Ia?","A vantagem sobre outros modelos de aprendizado de máquina é a estimativa fora da amostra para a parte do conjunto que não está incluída na amostra de treinamento.","comparacao","",""
+"","Qual a vantagem sobre outros modelos de I.a.?","A vantagem sobre outros modelos de aprendizado de máquina é a estimativa fora da amostra para a parte do conjunto que não está incluída na amostra de treinamento.","comparacao","",""
+"","O que é boosting?","O termo boosting” refere-se a uma família de algoritmos que converte uma aprendizagem fraca em uma aprendizagem forte","conceitoBoosting","",""
+"","O que significa boosting?","O termo boosting” refere-se a uma família de algoritmos que converte uma aprendizagem fraca em uma aprendizagem forte","conceitoBoosting","",""
+"","O que pode ser boosting?","O termo boosting” refere-se a uma família de algoritmos que converte uma aprendizagem fraca em uma aprendizagem forte","conceitoBoosting","",""
+"","boosting?","O termo boosting” refere-se a uma família de algoritmos que converte uma aprendizagem fraca em uma aprendizagem forte","conceitoBoosting","",""
+"","O que ser ‘boosting’?","O termo boosting” refere-se a uma família de algoritmos que converte uma aprendizagem fraca em uma aprendizagem forte","conceitoBoosting","",""
+"","O algoritmo Floresta aleatória pode ser utilizado para classificação?","Sim.O algoritmo Floresta aleatória pode ser utilizado para classificação","aplicacao","",""
+"","O algoritmo random forest pode ser utilizado para classificação?","Sim.O algoritmo Floresta aleatória pode ser utilizado para classificação","aplicacao","",""
+"","Floresta aleatória pode ser utilizada para classificação?","Sim.O algoritmo Floresta aleatória pode ser utilizado para classificação","aplicacao","",""
+"","random forest pode ser utilizada para classificação?","Sim.O algoritmo Floresta aleatória pode ser utilizado para classificação","aplicacao","",""
+"","random forest pode ser utilizada para classificação?","Sim.O algoritmo Floresta aleatória pode ser utilizado para classificação","aplicacao","",""
+"","O que é árvore de decisão?"," cada nodo interno representa um teste em um atributo","conceitoArvoreDecisao","",""
+"","O que é uma árvore de decisão?"," cada nodo interno representa um teste em um atributo","conceitoArvoreDecisao","",""
+"","O que pode ser uma árvore de decisão?"," cada nodo interno representa um teste em um atributo","conceitoArvoreDecisao","",""
+"","O que é uma decision tree?"," cada nodo interno representa um teste em um atributo","conceitoArvoreDecisao","",""
+"","O que é uma decision tree?"," cada nodo interno representa um teste em um atributo","conceitoArvoreDecisao","",""
+"","O algoritmo Floresta aleatória utiliza árvore de decisão?","Sim.O algoritmo Floresta aleatória utiliza árvore de decisão","conceito","",""
+"","O algoritmo random forest utiliza árvore de decisão?","Sim.O algoritmo Floresta aleatória utiliza árvore de decisão","conceito","",""
+"","O algoritmo Floresta aleatória utiliza decision tree?","Sim.O algoritmo Floresta aleatória utiliza árvore de decisão","conceito","",""
+"","O algoritmo random forest utiliza decision tree?","Sim.O algoritmo Floresta aleatória utiliza árvore de decisão","conceito","",""
+"","O algoritmo Floresta aleatória usa árvore de decisão?","Sim.O algoritmo Floresta aleatória utiliza árvore de decisão","conceito","",""
+"","O algoritmo random forest faz parte de I.a?","Sim.O algoritmo Floresta aleatória faz parte de Inteligência artificial","conceito","",""
+"","O algoritmo random forest faz parte de Ia?","Sim.O algoritmo Floresta aleatória faz parte de Inteligência artificial","conceito","",""
+"","O algoritmo Floresta aleatória é considerado I.a?","Sim.O algoritmo Floresta aleatória faz parte de Inteligência artificial","conceito","",""
+"","O algoritmo random forest é considerado I.a?","Sim.O algoritmo Floresta aleatória faz parte de Inteligência artificial","conceito","",""
+"","O algoritmo random forest é considerado Ia?","Sim.O algoritmo Floresta aleatória faz parte de Inteligência artificial","conceito","",""
+"","Para que serve o random forest?","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","Para que serve o floresta aleatória?","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","Qual a utilidade do random forest?","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","Qual a utilidade da floresta aleatória?","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","Para que usamos o random forest?","O Floresta aleatória é um excelente algoritmo para ser utilizado nos primeiros estágios de criação do processo de desenvolvimento de um modelo","aplicacao","",""
+"","Mostre diferenças com uma árvore de decisão","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos","comparacao","",""
+"","Quais as diferenças sobre uma árvore de decisão?","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos","","",""
+"","Quais as diferenças com uma árvore de decisão?","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos","comparacao","",""
+"","Quais as diferenças em cima árvore de decisão?","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos","comparacao","",""
+"","Quais as diferenças quando comparada com uma árvore de decisão?","Árvores de decisão profundas podem sofrer de sobreajuste (overfitting) enquanto o random forest evita o sobreajuste na maioria dos casos pois trabalha com subconjuntos aleatórios das características e constrói árvores menores a partir de tais subconjuntos","comparacao","",""
+"","O que é uma Floresta Aleatória?","Floresta Aleatória é uma coleção de árvores de decisão.","conceito","Robson Andrei","Referência: https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8"
+"","Como funciona o algoritimo random forest?","Floresta Aleatória (random forest) é um algoritmo de aprendizagem supervisionada, que cria uma floresta de modo aleatório. A floresta que ele cria é uma combinação de árvores de decisão na maioria dos casos treinados com o método de bagging.","funcionamento","Robson Andrei","Referência: https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8"
