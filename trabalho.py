@@ -6,11 +6,12 @@ import csv
 import re
 import json
 
+k = 4
 saco_de_gato = {}
 tt_pt = TreeTagger(language = 'portuguese2')
 bag_of_words_global = defaultdict(int)
 palavra_morfologia = {}
-pattern = re.compile("(^PUNCT.*$|^AUX.*$|^PRON.*$|^DET.*$)")
+pattern = re.compile("(^PUNCT.*$|^AUX.*$|^PRON.*$|^DET.*$|^ADP.*$|^SCONJ.*$)")
 
 def sort_second(value):
     return value[1]
@@ -60,12 +61,27 @@ saco_de_gato = {'classes': saco_de_gato, 'bag_of_words': bag_of_words_global_ord
 with open('WekaFile', 'w+') as file:
     file.write("@relation WekaFile\n")
 
+    k_words = [word[0] for word in saco_de_gato['bag_of_words'][:k]]
+
+    for attribute in k_words:
+        file.write("@attribute " + attribute + " integer\n")
+
     file.write("@attribute classe {")
     file.write(','.join(list(saco_de_gato['classes'])))
     file.write("}\n")
 
     file.write("@data\n")
 
+    for classe, perguntas_bag_of_words in saco_de_gato['classes'].items():
+        for pergunta in perguntas_bag_of_words['perguntas']:
+            palavras_normalizadas = [i[2] for i in pergunta['morfologia']]
+            print(palavras_normalizadas)
+            for attribute in k_words:
+                if attribute in palavras_normalizadas:
+                    file.write("1, ")
+                else:
+                    file.write("0, ")
+            file.write(classe + "\n")
 
 print(json.dumps(saco_de_gato, indent = 4, ensure_ascii = False))
 
