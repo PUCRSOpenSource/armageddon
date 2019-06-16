@@ -1,12 +1,14 @@
+#! /usr/bin/python
+
 from treetagger import TreeTagger
-from pprint import pprint
 from collections import defaultdict
 
 import csv
 import re
 import json
+import sys
 
-k = 4
+k = 8
 saco_de_gato = {}
 tt_pt = TreeTagger(language = 'portuguese2')
 bag_of_words_global = defaultdict(int)
@@ -18,7 +20,7 @@ def sort_second(value):
 
 # Ler csv
 # ID;PERGUNTAS;RESPOSTAS;CLASSES;;
-with open('parcial.csv', 'r', encoding='utf-8', newline='') as csv_file:
+with open(sys.argv[1], 'r', encoding='utf-8', newline='') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter = ';')
     for row in csv_reader:
         pergunta = {}
@@ -75,7 +77,6 @@ with open('WekaFile', 'w+') as file:
     for classe, perguntas_bag_of_words in saco_de_gato['classes'].items():
         for pergunta in perguntas_bag_of_words['perguntas']:
             palavras_normalizadas = [i[2] for i in pergunta['morfologia']]
-            print(palavras_normalizadas)
             for attribute in k_words:
                 if attribute in palavras_normalizadas:
                     file.write("1, ")
@@ -83,5 +84,6 @@ with open('WekaFile', 'w+') as file:
                     file.write("0, ")
             file.write(classe + "\n")
 
-print(json.dumps(saco_de_gato, indent = 4, ensure_ascii = False))
+with open('data.json', 'w+') as file:
+    file.write(json.dumps(saco_de_gato, indent = 4, ensure_ascii = False))
 
