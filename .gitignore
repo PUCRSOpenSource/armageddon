@@ -110,3 +110,4 @@ venv.bak/
 
 WekaFile
 data.json
+*.arff

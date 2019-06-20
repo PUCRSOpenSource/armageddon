@@ -11,7 +11,6 @@ import sys
 k = 8
 saco_de_gato = {}
 tt_pt = TreeTagger(language = 'portuguese2')
-bag_of_words_global = defaultdict(int)
 palavra_morfologia = {}
 pattern = re.compile("(^PUNCT.*$|^AUX.*$|^PRON.*$|^DET.*$|^ADP.*$|^SCONJ.*$)")
 
@@ -24,11 +23,11 @@ with open(sys.argv[1], 'r', encoding='utf-8', newline='') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter = ';')
     for row in csv_reader:
         pergunta = {}
-        pergunta['id'] = row[0]
-        pergunta['pergunta'] = row[1]
-        pergunta['resposta'] = row[2]
-        pergunta['classe'] = row[3]
-        saco_de_gato.setdefault(row[3], []).append(pergunta)
+        pergunta['id'] = row[0].strip()
+        pergunta['pergunta'] = row[1].strip()
+        pergunta['resposta'] = row[2].strip()
+        pergunta['classe'] = row[3].strip()
+        saco_de_gato.setdefault(row[3].strip(), []).append(pergunta)
 
 # Construir bag of words de cada classe e a global
 for classe, perguntas in saco_de_gato.items():
@@ -39,7 +38,6 @@ for classe, perguntas in saco_de_gato.items():
         for palavra in morfologia:
             palavra_morfologia[palavra[2]] = palavra[1]
             bag_of_words[palavra[2]] += 1
-            bag_of_words_global[palavra[2]] += 1
 
     # Limpa a bag of words de cada classe
     bag_of_words_ordenada_e_limpinha = []
@@ -51,16 +49,17 @@ for classe, perguntas in saco_de_gato.items():
     saco_de_gato[classe] = {'perguntas': perguntas, 'bag_of_words': bag_of_words_ordenada_e_limpinha}
 
 # Limpa a bag of words global
-bag_of_words_global_ordenada_e_limpinha = []
-for word, counter in bag_of_words_global.items():
-    if not pattern.match(palavra_morfologia[word]):
-        bag_of_words_global_ordenada_e_limpinha.append((word, counter))
-bag_of_words_global_ordenada_e_limpinha.sort(key = sort_second, reverse = True)
+bag_of_words = defaultdict(int)
+for classe, perguntas_bag_of_words in saco_de_gato.items():
+    for word, counter in perguntas_bag_of_words['bag_of_words']:
+        bag_of_words[word] += counter
+bag_of_words = list(bag_of_words.items())
+bag_of_words.sort(key = sort_second, reverse = True)
 
-saco_de_gato = {'classes': saco_de_gato, 'bag_of_words': bag_of_words_global_ordenada_e_limpinha}
+saco_de_gato = {'classes': saco_de_gato, 'bag_of_words': bag_of_words}
 
 # Escreve o arquivo weka
-with open('WekaFile', 'w+') as file:
+with open(f"K{k:02d}.arff", 'w+') as file:
     file.write("@relation WekaFile\n")
 
     k_words = [word[0] for word in saco_de_gato['bag_of_words'][:k]]
