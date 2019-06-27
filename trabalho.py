@@ -7,6 +7,8 @@ import csv
 import re
 import json
 import sys
+import random
+import math
 
 k = 8
 saco_de_gato = {}
@@ -29,8 +31,23 @@ with open(sys.argv[1], 'r', encoding='utf-8', newline='') as csv_file:
         pergunta['classe'] = row[3].strip()
         saco_de_gato.setdefault(row[3].strip(), []).append(pergunta)
 
-# Construir bag of words de cada classe e a global
+# Divisão do 20/80%
+saco_de_gato_teste = {}
+saco_de_gato_treino = {}
 for classe, perguntas in saco_de_gato.items():
+    teste = random.sample(perguntas, k = math.ceil((len(perguntas) * 20) / 100))
+    treino = [item for item in perguntas if item not in teste]
+    saco_de_gato_teste[classe] = teste
+    saco_de_gato_treino[classe] = treino
+
+# Fazer a morfologia no conjunto de teste
+for classe, perguntas in saco_de_gato_teste.items():
+    for pergunta in perguntas:
+        morfologia = tt_pt.tag(pergunta['pergunta'])
+        pergunta['morfologia'] = morfologia
+
+# Construir bag of words de cada classe e a global
+for classe, perguntas in saco_de_gato_treino.items():
     bag_of_words = defaultdict(int)
     for pergunta in perguntas:
         morfologia = tt_pt.tag(pergunta['pergunta'])
@@ -46,34 +63,35 @@ for classe, perguntas in saco_de_gato.items():
             bag_of_words_ordenada_e_limpinha.append((word, counter))
     bag_of_words_ordenada_e_limpinha.sort(key = sort_second, reverse = True)
 
-    saco_de_gato[classe] = {'perguntas': perguntas, 'bag_of_words': bag_of_words_ordenada_e_limpinha}
+    saco_de_gato_treino[classe] = {'perguntas': perguntas, 'bag_of_words': bag_of_words_ordenada_e_limpinha}
 
 # Limpa a bag of words global
 bag_of_words = defaultdict(int)
-for classe, perguntas_bag_of_words in saco_de_gato.items():
+for classe, perguntas_bag_of_words in saco_de_gato_treino.items():
     for word, counter in perguntas_bag_of_words['bag_of_words']:
         bag_of_words[word] += counter
 bag_of_words = list(bag_of_words.items())
 bag_of_words.sort(key = sort_second, reverse = True)
 
-saco_de_gato = {'classes': saco_de_gato, 'bag_of_words': bag_of_words}
+saco_de_gato_treino = {'classes': saco_de_gato_treino, 'bag_of_words': bag_of_words}
 
-# Escreve o arquivo weka
-with open(f"K{k:02d}.arff", 'w+') as file:
-    file.write("@relation WekaFile\n")
+# Escreve o arquivo weka de treino
+nome = f"treino_K{k:02d}"
+with open(f'{nome}.arff', 'w+') as file:
+    file.write(f"@relation {nome}\n")
 
-    k_words = [word[0] for word in saco_de_gato['bag_of_words'][:k]]
+    k_words = [word[0] for word in saco_de_gato_treino['bag_of_words'][:k]]
 
     for attribute in k_words:
         file.write("@attribute " + attribute + " integer\n")
 
     file.write("@attribute classe {")
-    file.write(','.join(list(saco_de_gato['classes'])))
+    file.write(','.join(list(saco_de_gato_treino['classes'])))
     file.write("}\n")
 
     file.write("@data\n")
 
-    for classe, perguntas_bag_of_words in saco_de_gato['classes'].items():
+    for classe, perguntas_bag_of_words in saco_de_gato_treino['classes'].items():
         for pergunta in perguntas_bag_of_words['perguntas']:
             palavras_normalizadas = [i[2] for i in pergunta['morfologia']]
             for attribute in k_words:
@@ -83,6 +101,28 @@ with open(f"K{k:02d}.arff", 'w+') as file:
                     file.write("0, ")
             file.write(classe + "\n")
 
-with open('data.json', 'w+') as file:
-    file.write(json.dumps(saco_de_gato, indent = 4, ensure_ascii = False))
+# Escreve o arquivo weka de teste
+nome = f"teste_K{k:02d}"
+with open(f'{nome}.arff', 'w+') as file:
+    file.write(f"@relation {nome}\n")
 
+    k_words = [word[0] for word in saco_de_gato_treino['bag_of_words'][:k]]
+
+    for attribute in k_words:
+        file.write("@attribute " + attribute + " integer\n")
+
+    file.write("@attribute classe {")
+    file.write(','.join(list(saco_de_gato_teste)))
+    file.write("}\n")
+
+    file.write("@data\n")
+
+    for classe, perguntas in saco_de_gato_teste.items():
+        for pergunta in perguntas:
+            palavras_normalizadas = [i[2] for i in pergunta['morfologia']]
+            for attribute in k_words:
+                if attribute in palavras_normalizadas:
+                    file.write("1, ")
+                else:
+                    file.write("0, ")
+            file.write(classe + "\n")
